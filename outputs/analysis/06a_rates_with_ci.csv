@@ -1,0 +1,4 @@
+category,n_mentions,n_docs,pooled_rate,boot_ci_low,boot_ci_high,doc_mean,doc_sd
+HUMAN,80247,788,0.501,0.484,0.516,0.475,0.193
+AI,29163,795,0.137,0.122,0.151,0.079,0.124
+COMPANY,3416,495,0.093,0.074,0.111,0.066,0.175

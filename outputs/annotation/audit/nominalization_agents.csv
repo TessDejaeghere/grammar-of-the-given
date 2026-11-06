@@ -1,0 +1,35 @@
+mention_text,head_lemma,nom_pattern,auto_label,correct,notes,work_id,sent_id
+AI,ai,AI_Nom,suppressed,y,,W7131745605,56655
+LLM,llm,AI_Nom,suppressed,y,,W4416264835,50558
+AI,ai,AI_Nom,suppressed,y,,W3213628163,21897
+LLMs,llms,AI_Nom,suppressed,y,,W7140095545,66965
+AI,ai,AI_Nom,explicit_by_agent,y,,W4411573409,42934
+VLM,vlm,AI_Nom,explicit_possessive,y,,W4416362002,51095
+AI,ai,AI_Nom,suppressed,y,,W4416285046,50742
+AI,ai,AI_Nom,suppressed,y,,W3213628163,21943
+AI,ai,AI_Nom,suppressed,y,,W4402812445,36313
+GPT-4,gpt-4,AI_Nom,suppressed,y,,W4395482495,33329
+AI,ai,AI_Nom,explicit_by_agent,y,,W4307997663,20020
+AI,ai,AI_Nom,suppressed,y,,W7155160496,68870
+Generative AI,generative,AI_Nom,suppressed,y,,W4399033271,34023
+AI,ai,AI_Nom,suppressed,y,,W4413121357,12452
+BERT,bert,AI_Nom,suppressed,y,,W4402385800,36220
+DALL-E,e,AI_Nom,explicit_by_agent,y,,W4390949385,19118
+AI,ai,AI_Nom,suppressed,y,,W4417070794,51747
+AI,ai,AI_Nom,explicit_by_agent,y,,W4414903054,46882
+ChatGPT,chatgpt,AI_Nom,suppressed,y,,W7171565551,76275
+artificial intelligence,intelligence,AI_Nom,suppressed,y,,W4394570661,11623
+AI,ai,AI_Nom,suppressed,y,,W7147450997,67664
+GPT,gpt,AI_Nom,suppressed,y,,W4362583436,11420
+AI,ai,AI_Nom,suppressed,y,,W7204066399,78514
+GPT,gpt,AI_Nom,explicit_possessive,y,,W4399907838,34630
+GenAI,genai,AI_Nom,suppressed,y,,W7155160496,68917
+LLMs,llms,AI_Nom,suppressed,y,,W7131635557,64659
+AI,ai,AI_Nom,explicit_possessive,y,,W4404569797,38024
+AI,ai,AI_Nom,suppressed,y,,W7147450997,67739
+LLM,llm,AI_Nom,suppressed,y,,W7117078679,54796
+GPT,gpt,AI_Nom,explicit_possessive,y,,W4399907838,34645
+AI,ai,AI_Nom,explicit_possessive,n,,W4400948571,35519
+AI,ai,AI_Nom,suppressed,y,,W7131745605,56829
+LLM,llm,AI_Nom,suppressed,y,,W7118600085,61587
+LLMs,llms,AI_Nom,suppressed,y,,W4392019607,31394

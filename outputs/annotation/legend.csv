@@ -1,0 +1,7 @@
+sheet,column,allowed_values
+04b_modality,manual_label,strong | weak/hedged | mixed | bare | NA
+04d_nominalization,manual_agent_present,TRUE | FALSE | NA
+04e_polarity,manual_negated,TRUE | FALSE | NA
+04e_polarity,manual_projected,TRUE | FALSE | NA
+04c_verb_types,manual_class,material_action | cognitive_mental | instrumental_tool | verbal_communicative | stative_relational | behavioural | evaluative_performance | semiotic_evidential | OTHER
+06f_anthropomorphization,manual_categories,"semicolon-separated, per Inie, Zukerman & Bender (2026) Table 2: Cognizer | Products_of_cognition | Emotion | Communication | Agent | Human_role_analogy | Names_and_pronouns | Biological_metaphors | None"

@@ -1,0 +1,51 @@
+verb,subj_text,agent_text,agent_cat,auto_label,correct,notes,work_id,sent_id
+consider,outputs and outcomes of an AI system,,,agentless,y,,W7117212651,55112
+produce,LLMs,net,OTHER,agent_present,y,,W4415144040,47276
+interpret,even the seeming failure of the AI chatbot to truly ' know ' who this woman had ,,,agentless,y,,W4408502978,41979
+focus,that,,,agentless,y,,W7128476056,60895
+sign,"a second campaign , which was a petition to appeal Abdullah 's rejection from re",over a million,OTHER,agent_present,y,,W4384697547,27002
+determine,strategy quality,downstream model performance,OTHER,agent_present,n,,W7139148011,66512
+add,four texts generated with Claude 3.5 Sonnet,,,agentless,y,,W4415421466,48294
+support,this hypothesis,the results,OTHER,agent_present,n,,W4407244629,40829
+structure,"The AI model 's understanding of literary distinction 
+ and",race,OTHER,agent_present,n,,W4417044082,14676
+automate,deliberation,,,agentless,y,,W7155067134,68729
+drive,The introduction of the new AI system,the premise that more data — infinitely more metaphorical ' ,OTHER,agent_present,n,,W4408502978,41902
+remade,AI,,,agentless,y,,W4405846591,2669
+think,it,,,agentless,y,,W4405846591,2441
+control,this,"a parameter called "" temperature "" or neural noise",OTHER,agent_present,n,,W4401892122,15772
+arrange,The layers,,,agentless,y,,W7167379736,74946
+encourage,students,,,agentless,y,,W7128576077,63041
+involve,humans,,,agentless,y,,W7118600085,61577
+constrain,that,,,agentless,y,,W4416035869,6926
+adopt,The chatbot,a nationally - funded research project on,OTHER,agent_present,y,,W4401983555,36092
+reformulate,tasks,,,agentless,y,,W4416264814,50331
+point,Its limitations such as the inability of the chatbot to tailor its follow - up q,,,agentless,y,,W4401983555,36120
+force,he,,,agentless,na,,W4362583436,11338
+enable,"1 Introduction 
+",huge amounts of training,OTHER,agent_present,y,,W4402670867,1076
+base,Results,,,agentless,y,,W4403936522,37216
+enrol,GenAI,,,agentless,y,,W7134879932,65668
+choose,method,,,agentless,y,,W4404174626,7558
+do,the pedagogical work,,,agentless,y,,W7165743497,72340
+transform,vision,"the ImageNet dataset , the AlexNet convolutional neural netw",OTHER,agent_present,y,,W7167379736,74903
+focus,The ethical issues and debate,,,agentless,y,,W4414903054,46927
+attribute,which,,,agentless,y,,W4417320664,52475
+train,they,,,agentless,y,,W7128938077,56488
+author,something,,,agentless,y,,W4414572977,45799
+generate,QOuLiPo prose deposited with this paper,"Anthropic 's 
+ Claude ( Sonnet 4.5 / Opus 4.6 / Opus 4.7 )",AI,agent_present,y,,W7161452501,70214
+perform,The experiments,,,agentless,y,,W4404783869,16087
+aid,She,the program,OTHER,agent_present,y,,W4362583436,11477
+interview,"Hanselman , a renowned expert in AI ,",,,agentless,y,,W4416341044,50905
+control,the creative liberty of the LLM,the human user,HUMAN,agent_present,y,,W4413121357,12428
+leave,"those who are uncertain about its 
+ referents ( popular media commentators , pol",,,agentless,y,,W4417364483,52954
+formalize,This process,,,agentless,na,,W4405269279,38935
+tune,GPT-2,,,agentless,y,,W4323537222,25897
+define,Genre literature,the recurrence of certain elements,OTHER,agent_present,y,,W4362583436,11475
+limit,artificial intelligence based on neural networks,,,agentless,y,,W7135888560,58123
+propose,"a novel Fashion Analyzing 
+ and Reporting framework ( GPT - FAR ) which enables ",,,agentless,y,,W4392736179,32059
+create,a good generative model,,,agentless,y,,W4313445955,15312
+obscure,both of which,the use of,OTHER,agent_present,n,,W7125149622,62349

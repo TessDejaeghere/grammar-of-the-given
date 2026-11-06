@@ -1,0 +1,10 @@
+model,term,odds_ratio,ci_low,ci_high,p
+active ~ named,Intercept,0.162,0.135,0.194,0.0
+active ~ named,is_named,0.613,0.484,0.776,5e-05
+active ~ named,year_c,1.076,0.973,1.19,0.15425
+classifier ~ named,Intercept,0.511,0.446,0.585,0.0
+classifier ~ named,is_named,1.37,1.193,1.573,1e-05
+classifier ~ named,year_c,1.041,0.964,1.125,0.3041
+bare ~ named,Intercept,2.561,2.236,2.933,0.0
+bare ~ named,is_named,1.862,1.468,2.361,0.0
+bare ~ named,year_c,1.08,0.989,1.179,0.08618

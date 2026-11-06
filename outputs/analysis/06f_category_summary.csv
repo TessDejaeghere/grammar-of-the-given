@@ -1,0 +1,9 @@
+category,n_sentences,share,presupposed_n,asserted_n,negated_share,attributed_share
+Cognizer,393,0.018,393,356,0.094,0.066
+Agent,286,0.0131,286,250,0.126,0.077
+Communication,242,0.0111,242,217,0.103,0.017
+Products_of_cognition,204,0.0094,204,188,0.078,0.049
+Human_role_analogy,159,0.0073,159,146,0.082,0.05
+Names_and_pronouns,65,0.003,65,55,0.154,0.015
+Biological_metaphors,54,0.0025,54,47,0.13,0.056
+Emotion,45,0.0021,45,41,0.089,0.133

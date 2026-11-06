@@ -1,0 +1,13 @@
+term,odds_ratio,ci_low,ci_high,p,model
+Intercept,0.161,0.136,0.19,0.0,active ~ venue
+C(vc)[T.preprint / repository],0.859,0.662,1.115,0.25327,active ~ venue
+C(vc)[T.conference],0.465,0.351,0.615,0.0,active ~ venue
+C(vc)[T.book / chapter],0.875,0.55,1.393,0.57448,active ~ venue
+C(vc)[T.other],0.441,0.149,1.304,0.1388,active ~ venue
+year_c,1.106,1.004,1.217,0.04036,active ~ venue
+Intercept,0.272,0.2,0.37,0.0,named ~ venue
+C(vc)[T.preprint / repository],1.98,1.348,2.91,0.0005,named ~ venue
+C(vc)[T.conference],2.244,1.368,3.681,0.00137,named ~ venue
+C(vc)[T.book / chapter],1.215,0.613,2.405,0.57707,named ~ venue
+C(vc)[T.other],0.548,0.091,3.284,0.51022,named ~ venue
+year_c,0.884,0.743,1.052,0.16429,named ~ venue

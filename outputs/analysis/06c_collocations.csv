@@ -1,0 +1,2494 @@
+node,collocate,f_joint,f_collocate,log_dice,mi
+AI (umbrella),generate,714,3215,10.351,0.933
+AI (umbrella),tool,662,3687,10.204,0.627
+AI (umbrella),system,597,3087,10.103,0.734
+AI (umbrella),use,589,4821,9.95,0.071
+AI (umbrella),technology,485,2931,9.816,0.509
+AI (umbrella),human,518,9308,9.466,-1.063
+AI (umbrella),research,440,6268,9.426,-0.728
+AI (umbrella),artificial,349,2127,9.409,0.497
+AI (umbrella),intelligence,340,2128,9.371,0.458
+AI (umbrella),literature,326,1813,9.338,0.629
+AI (umbrella),model,451,9776,9.238,-1.334
+AI (umbrella),literary,320,2703,9.235,0.026
+AI (umbrella),text,401,9175,9.104,-1.412
+AI (umbrella),development,258,1621,9.017,0.453
+AI (umbrella),application,252,1267,9.015,0.774
+AI (umbrella),digital,344,8834,8.904,-1.579
+AI (umbrella),analysis,243,3726,8.756,-0.835
+AI (umbrella),work,270,6199,8.726,-1.417
+AI (umbrella),drive,196,758,8.699,1.153
+AI (umbrella),humanity,222,2831,8.697,-0.569
+AI (umbrella),assist,186,448,8.653,1.836
+AI (umbrella),learning,192,1552,8.597,0.089
+AI (umbrella),content,204,2623,8.592,-0.581
+AI (umbrella),base,212,3883,8.546,-1.091
+AI (umbrella),study,212,4242,8.519,-1.219
+AI (umbrella),machine,184,2161,8.482,-0.45
+AI (umbrella),writing,173,1344,8.465,0.146
+AI (umbrella),potential,167,1188,8.428,0.273
+AI (umbrella),new,186,3541,8.384,-1.147
+AI (umbrella),language,206,5550,8.381,-1.648
+AI (umbrella),output,156,1410,8.31,-0.072
+AI (umbrella),integration,147,519,8.306,1.284
+AI (umbrella),library,163,2274,8.298,-0.698
+AI (umbrella),create,162,2557,8.265,-0.876
+AI (umbrella),impact,146,892,8.261,0.493
+AI (umbrella),power,142,713,8.238,0.776
+AI (umbrella),role,143,1114,8.211,0.142
+AI (umbrella),ethical,137,732,8.185,0.686
+AI (umbrella),image,166,4112,8.176,-1.527
+AI (umbrella),cultural,150,2362,8.17,-0.873
+AI (umbrella),education,130,665,8.115,0.749
+AI (umbrella),challenge,136,1616,8.094,-0.467
+AI (umbrella),include,143,2807,8.064,-1.191
+AI (umbrella),produce,131,1596,8.041,-0.503
+AI (umbrella),support,131,1685,8.034,-0.581
+AI (umbrella),critical,128,1319,8.033,-0.261
+AI (umbrella),future,125,1593,7.974,-0.568
+AI (umbrella),age,117,581,7.971,0.792
+AI (umbrella),integrate,117,742,7.956,0.439
+AI (umbrella),help,122,1427,7.954,-0.444
+AI (umbrella),design,129,2383,7.951,-1.103
+AI (umbrella),train,118,1339,7.914,-0.4
+AI (umbrella),training,121,1768,7.912,-0.765
+AI (umbrella),datum,152,6173,7.899,-2.24
+AI (umbrella),term,120,1859,7.892,-0.849
+AI (umbrella),approach,129,3147,7.888,-1.504
+AI (umbrella),author,135,4105,7.878,-1.822
+AI (umbrella),provide,127,3183,7.863,-1.543
+AI (umbrella),keyword,109,652,7.862,0.524
+AI (umbrella),develop,116,1763,7.851,-0.822
+AI (umbrella),enable,113,1414,7.844,-0.541
+AI (umbrella),generative,113,1463,7.84,-0.59
+AI (umbrella),data,120,2591,7.829,-1.328
+AI (umbrella),art,109,1089,7.822,-0.217
+AI (umbrella),creation,106,909,7.798,0.004
+AI (umbrella),heritage,105,919,7.783,-0.026
+AI (umbrella),creative,104,886,7.773,0.013
+AI (umbrella),process,120,3458,7.759,-1.745
+AI (umbrella),translation,106,1778,7.72,-0.964
+AI (umbrella),platform,104,1558,7.712,-0.801
+AI (umbrella),practice,106,1966,7.703,-1.109
+AI (umbrella),student,102,1527,7.686,-0.8
+AI (umbrella),understand,103,1772,7.679,-1.001
+AI (umbrella),explore,100,1443,7.665,-0.747
+AI (umbrella),field,101,1629,7.663,-0.907
+AI (umbrella),framework,100,1605,7.651,-0.9
+AI (umbrella),examine,93,860,7.614,-0.105
+AI (umbrella),context,101,2244,7.61,-1.37
+AI (umbrella),collaboration,92,799,7.604,-0.014
+AI (umbrella),generation,96,1506,7.601,-0.867
+AI (umbrella),enhance,91,816,7.587,-0.061
+AI (umbrella),humanities,93,1221,7.581,-0.611
+AI (umbrella),recent,89,672,7.568,0.187
+AI (umbrella),capability,89,677,7.567,0.177
+AI (umbrella),present,95,2069,7.537,-1.341
+AI (umbrella),project,102,3362,7.532,-1.939
+AI (umbrella),knowledge,97,2575,7.524,-1.626
+AI (umbrella),suggest,87,885,7.515,-0.243
+AI (umbrella),method,102,3697,7.505,-2.076
+AI (umbrella),historical,95,2473,7.502,-1.598
+AI (umbrella),write,90,1582,7.501,-1.032
+AI (umbrella),large,95,2591,7.492,-1.665
+AI (umbrella),responsible,82,233,7.492,1.597
+AI (umbrella),creativity,84,616,7.49,0.23
+AI (umbrella),identify,90,1702,7.49,-1.137
+AI (umbrella),need,95,2739,7.48,-1.746
+AI (umbrella),adoption,81,198,7.477,1.815
+AI (umbrella),risk,82,498,7.466,0.502
+AI (umbrella),current,83,918,7.444,-0.363
+AI (umbrella),particularly,82,728,7.444,-0.046
+AI (umbrella),science,85,1492,7.427,-1.03
+AI (umbrella),assistant,77,261,7.398,1.343
+AI (umbrella),offer,81,1296,7.375,-0.896
+AI (umbrella),way,88,2702,7.373,-1.836
+AI (umbrella),document,85,2224,7.363,-1.605
+AI (umbrella),focus,83,2043,7.344,-1.517
+AI (umbrella),demonstrate,78,1096,7.338,-0.709
+AI (umbrella),music,74,335,7.334,0.926
+AI (umbrella),example,85,2600,7.331,-1.831
+AI (umbrella),require,79,1421,7.327,-1.065
+AI (umbrella),emerge,75,624,7.326,0.047
+AI (umbrella),literacy,73,269,7.32,1.222
+AI (umbrella),apply,77,1256,7.305,-0.924
+AI (umbrella),conference,73,451,7.303,0.477
+AI (umbrella),open,80,1941,7.3,-1.497
+AI (umbrella),bias,74,813,7.288,-0.354
+AI (umbrella),question,81,2355,7.282,-1.758
+AI (umbrella),ethic,70,215,7.265,1.485
+AI (umbrella),computational,76,1562,7.259,-1.257
+AI (umbrella),augment,69,203,7.245,1.547
+AI (umbrella),show,74,1372,7.237,-1.109
+AI (umbrella),interpretation,72,1075,7.225,-0.796
+AI (umbrella),lab,68,320,7.213,0.87
+AI (umbrella),evaluate,72,1339,7.201,-1.113
+AI (umbrella),access,75,2053,7.197,-1.671
+AI (umbrella),academic,70,992,7.192,-0.721
+AI (umbrella),make,71,1257,7.188,-1.042
+AI (umbrella),advance,67,369,7.187,0.643
+AI (umbrella),concern,68,798,7.168,-0.449
+AI (umbrella),technique,67,689,7.157,-0.258
+AI (umbrella),algorithm,66,915,7.114,-0.689
+AI (umbrella),exist,67,1146,7.114,-0.992
+AI (umbrella),information,77,3551,7.111,-2.423
+AI (umbrella),increasingly,64,499,7.109,0.141
+AI (umbrella),advancement,62,201,7.091,1.407
+AI (umbrella),result,74,3159,7.085,-2.312
+AI (umbrella),narrative,66,1276,7.081,-1.169
+AI (umbrella),specific,68,1865,7.072,-1.673
+AI (umbrella),history,68,1903,7.068,-1.703
+AI (umbrella),copyright,62,464,7.066,0.2
+AI (umbrella),introduction,62,520,7.061,0.036
+AI (umbrella),researcher,77,4212,7.06,-2.669
+AI (umbrella),consider,66,1601,7.052,-1.496
+AI (umbrella),user,89,7492,7.038,-3.291
+AI (umbrella),university,65,1776,7.014,-1.668
+AI (umbrella),era,59,297,7.01,0.772
+AI (umbrella),implication,59,323,7.008,0.651
+AI (umbrella),social,65,1944,7.0,-1.798
+AI (umbrella),high,64,1717,6.997,-1.642
+AI (umbrella),advanced,58,372,6.979,0.423
+AI (umbrella),chatbot,58,364,6.979,0.454
+AI (umbrella),form,65,2202,6.978,-1.978
+AI (umbrella),relate,60,894,6.978,-0.793
+AI (umbrella),chatgpt,59,652,6.977,-0.362
+AI (umbrella),transform,58,473,6.969,0.076
+AI (umbrella),address,60,1115,6.958,-1.112
+AI (umbrella),argue,59,930,6.951,-0.874
+AI (umbrella),case,64,2273,6.949,-2.046
+AI (umbrella),paper,61,1563,6.942,-1.575
+AI (umbrella),workflow,58,795,6.939,-0.673
+AI (umbrella),review,58,810,6.937,-0.7
+AI (umbrella),influence,57,560,6.936,-0.192
+AI (umbrella),authorship,57,566,6.935,-0.208
+AI (umbrella),experiment,59,1127,6.933,-1.152
+AI (umbrella),find,63,2236,6.93,-2.045
+AI (umbrella),serve,57,657,6.926,-0.423
+AI (umbrella),grow,56,396,6.926,0.282
+AI (umbrella),early,59,1237,6.923,-1.286
+AI (umbrella),international,56,428,6.923,0.17
+AI (umbrella),change,60,1582,6.916,-1.617
+AI (umbrella),production,57,764,6.916,-0.64
+AI (umbrella),ability,57,795,6.914,-0.698
+AI (umbrella),description,57,831,6.91,-0.762
+AI (umbrella),traditional,57,844,6.909,-0.784
+AI (umbrella),value,59,1395,6.908,-1.459
+AI (umbrella),bench,54,81,6.904,2.519
+AI (umbrella),article,58,1195,6.902,-1.261
+AI (umbrella),limitation,56,659,6.901,-0.453
+AI (umbrella),represent,57,1000,6.895,-1.029
+AI (umbrella),time,63,2864,6.877,-2.402
+AI (umbrella),sprint,53,82,6.877,2.474
+AI (umbrella),society,55,649,6.876,-0.457
+AI (umbrella),expert,55,724,6.869,-0.614
+AI (umbrella),reading,57,1347,6.863,-1.459
+AI (umbrella),computer,57,1436,6.855,-1.551
+AI (umbrella),analyze,55,882,6.854,-0.899
+AI (umbrella),remain,55,1047,6.839,-1.147
+AI (umbrella),introduce,55,1041,6.839,-1.138
+AI (umbrella),general,54,870,6.829,-0.906
+AI (umbrella),act,53,596,6.827,-0.387
+AI (umbrella),issue,55,1242,6.821,-1.393
+AI (umbrella),leverage,52,387,6.82,0.208
+AI (umbrella),emergence,51,182,6.811,1.269
+AI (umbrella),processing,53,809,6.807,-0.828
+AI (umbrella),vision,52,667,6.793,-0.577
+AI (umbrella),ensure,53,963,6.793,-1.079
+AI (umbrella),good,52,910,6.77,-1.025
+AI (umbrella),search,54,1649,6.758,-1.828
+AI (umbrella),collaborative,50,447,6.757,-0.056
+AI (umbrella),humanistic,49,253,6.747,0.736
+AI (umbrella),task,55,2168,6.74,-2.197
+AI (umbrella),abstract,50,636,6.739,-0.565
+AI (umbrella),significant,50,732,6.73,-0.768
+AI (umbrella),reshape,48,166,6.725,1.314
+AI (umbrella),textual,51,1132,6.722,-1.368
+AI (umbrella),rise,48,218,6.72,0.921
+AI (umbrella),environment,50,904,6.714,-1.072
+AI (umbrella),world,52,1629,6.705,-1.865
+AI (umbrella),policy,48,413,6.702,-0.001
+AI (umbrella),criticism,48,432,6.7,-0.066
+AI (umbrella),public,50,1060,6.7,-1.302
+AI (umbrella),today,48,503,6.693,-0.285
+AI (umbrella),video,49,827,6.692,-0.973
+AI (umbrella),modern,49,882,6.687,-1.066
+AI (umbrella),key,49,881,6.687,-1.064
+AI (umbrella),improve,49,898,6.686,-1.092
+AI (umbrella),contemporary,48,591,6.685,-0.518
+AI (umbrella),prompt,53,2267,6.678,-2.315
+AI (umbrella),raise,47,339,6.678,0.254
+AI (umbrella),mean,50,1353,6.673,-1.654
+AI (umbrella),aspect,48,758,6.669,-0.877
+AI (umbrella),big,47,434,6.669,-0.103
+AI (umbrella),function,48,808,6.664,-0.969
+AI (umbrella),involve,48,892,6.657,-1.112
+AI (umbrella),contribute,47,613,6.652,-0.601
+AI (umbrella),scholarly,48,939,6.652,-1.186
+AI (umbrella),technical,48,1043,6.643,-1.337
+AI (umbrella),highlight,47,770,6.638,-0.93
+AI (umbrella),benefit,46,479,6.634,-0.276
+AI (umbrella),global,46,530,6.629,-0.422
+AI (umbrella),engagement,46,579,6.624,-0.55
+AI (umbrella),reveal,46,600,6.623,-0.601
+AI (umbrella),lead,47,965,6.62,-1.256
+AI (umbrella),assess,46,643,6.618,-0.701
+AI (umbrella),pattern,47,1025,6.614,-1.343
+AI (umbrella),dataset,51,2504,6.602,-2.514
+AI (umbrella),compare,47,1199,6.598,-1.569
+AI (umbrella),conclusion,45,632,6.588,-0.708
+AI (umbrella),especially,45,712,6.58,-0.88
+AI (umbrella),archive,47,1407,6.579,-1.8
+AI (umbrella),medium,47,1438,6.577,-1.831
+AI (umbrella),genai,44,564,6.562,-0.576
+AI (umbrella),implementation,43,379,6.546,-0.036
+AI (umbrella),national,44,735,6.546,-0.958
+AI (umbrella),ethics,42,90,6.54,2.005
+AI (umbrella),adopt,43,559,6.529,-0.596
+AI (umbrella),performance,45,1361,6.521,-1.815
+AI (umbrella),bring,43,745,6.512,-1.011
+AI (umbrella),perspective,44,1178,6.505,-1.639
+AI (umbrella),transformation,42,506,6.5,-0.487
+AI (umbrella),relationship,43,884,6.499,-1.258
+AI (umbrella),propose,44,1270,6.497,-1.747
+AI (umbrella),semantic,43,961,6.492,-1.378
+AI (umbrella),idea,43,973,6.49,-1.396
+AI (umbrella),critically,41,245,6.49,0.525
+AI (umbrella),problem,43,1009,6.487,-1.448
+AI (umbrella),replace,41,337,6.482,0.065
+AI (umbrella),trust,41,330,6.482,0.095
+AI (umbrella),economic,41,344,6.481,0.035
+AI (umbrella),novel,43,1088,6.48,-1.557
+AI (umbrella),quality,44,1455,6.48,-1.943
+AI (umbrella),detect,41,395,6.476,-0.164
+AI (umbrella),different,47,2748,6.464,-2.766
+AI (umbrella),build,43,1274,6.463,-1.785
+AI (umbrella),program,41,559,6.46,-0.665
+AI (umbrella),specifically,41,627,6.454,-0.831
+AI (umbrella),learn,42,1034,6.451,-1.518
+AI (umbrella),establish,41,715,6.446,-1.02
+AI (umbrella),concept,43,1478,6.445,-1.999
+AI (umbrella),operate,40,354,6.444,-0.042
+AI (umbrella),discussion,41,761,6.441,-1.11
+AI (umbrella),community,43,1562,6.437,-2.079
+AI (umbrella),strategy,41,811,6.437,-1.202
+AI (umbrella),implement,40,496,6.431,-0.528
+AI (umbrella),governance,39,136,6.429,1.302
+AI (umbrella),discuss,41,952,6.424,-1.433
+AI (umbrella),significantly,39,390,6.404,-0.218
+AI (umbrella),culture,41,1230,6.398,-1.803
+AI (umbrella),multimodal,39,483,6.395,-0.526
+AI (umbrella),reflect,40,886,6.394,-1.365
+AI (umbrella),story,40,935,6.39,-1.443
+AI (umbrella),lack,39,557,6.388,-0.732
+AI (umbrella),experience,42,1778,6.384,-2.3
+AI (umbrella),important,40,995,6.384,-1.533
+AI (umbrella),interaction,40,1031,6.381,-1.584
+AI (umbrella),view,40,1040,6.38,-1.596
+AI (umbrella),treat,38,331,6.372,-0.019
+AI (umbrella),epistemic,38,331,6.372,-0.019
+AI (umbrella),service,39,781,6.367,-1.22
+AI (umbrella),evolve,38,392,6.367,-0.263
+AI (umbrella),emphasize,38,408,6.365,-0.32
+AI (umbrella),scholar,46,3656,6.36,-3.208
+AI (umbrella),understanding,40,1269,6.359,-1.883
+AI (umbrella),automate,38,529,6.354,-0.695
+AI (umbrella),opportunity,38,543,6.352,-0.733
+AI (umbrella),evaluation,41,1792,6.348,-2.346
+AI (umbrella),employ,38,661,6.341,-1.017
+AI (umbrella),increase,38,712,6.336,-1.124
+AI (umbrella),natural,38,763,6.332,-1.224
+AI (umbrella),source,42,2393,6.331,-2.728
+AI (umbrella),fiction,37,431,6.324,-0.438
+AI (umbrella),network,39,1308,6.319,-1.964
+AI (umbrella),expand,37,488,6.319,-0.617
+AI (umbrella),allow,41,2142,6.318,-2.603
+AI (umbrella),state,38,964,6.313,-1.561
+AI (umbrella),rapid,36,155,6.311,0.998
+AI (umbrella),mention,37,591,6.309,-0.893
+AI (umbrella),possibility,37,590,6.309,-0.891
+AI (umbrella),shift,37,615,6.307,-0.951
+AI (umbrella),indicate,37,651,6.304,-1.033
+AI (umbrella),real,37,675,6.301,-1.085
+AI (umbrella),broad,37,680,6.301,-1.096
+AI (umbrella),google,38,1119,6.299,-1.776
+AI (umbrella),insight,37,725,6.297,-1.188
+AI (umbrella),year,38,1145,6.296,-1.809
+AI (umbrella),incorporate,36,420,6.286,-0.44
+AI (umbrella),claim,36,491,6.279,-0.666
+AI (umbrella),material,39,1766,6.278,-2.397
+AI (umbrella),technological,36,584,6.27,-0.916
+AI (umbrella),combine,36,685,6.261,-1.146
+AI (umbrella),company,35,287,6.258,0.068
+AI (umbrella),ask,36,732,6.256,-1.242
+AI (umbrella),software,36,821,6.248,-1.407
+AI (umbrella),writer,35,478,6.24,-0.668
+AI (umbrella),management,35,481,6.239,-0.677
+AI (umbrella),set,38,1848,6.234,-2.5
+AI (umbrella),center,35,538,6.234,-0.838
+AI (umbrella),scientific,35,562,6.232,-0.901
+AI (umbrella),finding,35,611,6.227,-1.022
+AI (umbrella),agent,35,659,6.223,-1.131
+AI (umbrella),shape,35,669,6.222,-1.153
+AI (umbrella),response,35,670,6.222,-1.155
+AI (umbrella),describe,36,1201,6.213,-1.956
+AI (umbrella),useful,34,430,6.203,-0.557
+AI (umbrella),word,38,2262,6.198,-2.791
+AI (umbrella),facilitate,34,500,6.196,-0.774
+AI (umbrella),interpret,34,541,6.192,-0.888
+AI (umbrella),scholarship,34,544,6.192,-0.896
+AI (umbrella),deep,34,555,6.191,-0.925
+AI (umbrella),action,34,559,6.19,-0.935
+AI (umbrella),debate,33,359,6.166,-0.339
+AI (umbrella),effectively,33,378,6.164,-0.414
+AI (umbrella),likely,33,420,6.16,-0.566
+AI (umbrella),corpus,36,1889,6.152,-2.609
+AI (umbrella),rely,33,564,6.147,-0.991
+AI (umbrella),principle,33,567,6.146,-0.999
+AI (umbrella),regulation,32,108,6.146,1.349
+AI (umbrella),historian,33,594,6.144,-1.066
+AI (umbrella),test,34,1092,6.141,-1.901
+AI (umbrella),poetry,33,653,6.138,-1.202
+AI (umbrella),legal,32,257,6.132,0.098
+AI (umbrella),engage,33,729,6.131,-1.361
+AI (umbrella),theory,33,800,6.125,-1.495
+AI (umbrella),educational,32,334,6.124,-0.28
+AI (umbrella),discourse,32,459,6.112,-0.738
+AI (umbrella),level,35,1934,6.108,-2.684
+AI (umbrella),explainable,31,60,6.105,2.151
+AI (umbrella),aim,33,1032,6.103,-1.863
+AI (umbrella),recognition,32,599,6.099,-1.122
+AI (umbrella),well,33,1095,6.097,-1.948
+AI (umbrella),intersection,31,137,6.097,0.96
+AI (umbrella),area,32,660,6.093,-1.262
+AI (umbrella),mediate,31,215,6.09,0.31
+AI (umbrella),progress,31,240,6.087,0.151
+AI (umbrella),book,35,2190,6.086,-2.863
+AI (umbrella),preservation,32,767,6.083,-1.479
+AI (umbrella),innovation,31,352,6.077,-0.401
+AI (umbrella),virtual,31,344,6.077,-0.368
+AI (umbrella),resource,33,1375,6.072,-2.277
+AI (umbrella),extend,31,508,6.062,-0.93
+AI (umbrella),topic,32,1062,6.056,-1.948
+AI (umbrella),contribution,31,595,6.054,-1.158
+AI (umbrella),methodology,31,662,6.047,-1.312
+AI (umbrella),call,31,664,6.047,-1.317
+AI (umbrella),report,31,738,6.04,-1.469
+AI (umbrella),usage,30,265,6.038,-0.039
+AI (umbrella),discovery,30,361,6.029,-0.485
+AI (umbrella),detection,30,358,6.029,-0.473
+AI (umbrella),metadata,31,885,6.027,-1.731
+AI (umbrella),plan,30,386,6.026,-0.581
+AI (umbrella),come,31,903,6.025,-1.76
+AI (umbrella),interactive,30,429,6.022,-0.734
+AI (umbrella),expertise,30,425,6.022,-0.72
+AI (umbrella),recognize,30,453,6.02,-0.812
+AI (umbrella),perform,31,966,6.019,-1.858
+AI (umbrella),web,31,1003,6.016,-1.912
+AI (umbrella),investigate,30,509,6.014,-0.981
+AI (umbrella),take,31,1044,6.012,-1.97
+AI (umbrella),figure,32,1574,6.01,-2.516
+AI (umbrella),guide,30,573,6.008,-1.151
+AI (umbrella),continue,30,613,6.005,-1.249
+AI (umbrella),interface,31,1170,6.0,-2.134
+AI (umbrella),automation,29,179,5.997,0.478
+AI (umbrella),philosophy,29,251,5.99,-0.009
+AI (umbrella),pose,29,253,5.99,-0.021
+AI (umbrella),efficiency,29,253,5.99,-0.021
+AI (umbrella),standard,30,810,5.986,-1.651
+AI (umbrella),point,31,1424,5.977,-2.417
+AI (umbrella),reality,29,395,5.976,-0.664
+AI (umbrella),embed,29,426,5.973,-0.773
+AI (umbrella),extraction,29,430,5.973,-0.786
+AI (umbrella),product,29,449,5.971,-0.849
+AI (umbrella),domain,30,1010,5.968,-1.969
+AI (umbrella),play,29,604,5.957,-1.276
+AI (umbrella),advent,28,67,5.957,1.845
+AI (umbrella),visual,30,1153,5.955,-2.16
+AI (umbrella),assistance,28,118,5.952,1.029
+AI (umbrella),printing,28,152,5.949,0.664
+AI (umbrella),landscape,28,333,5.932,-0.468
+AI (umbrella),think,29,929,5.926,-1.897
+AI (umbrella),algorithmic,28,403,5.925,-0.743
+AI (umbrella),practical,28,418,5.924,-0.796
+AI (umbrella),publish,29,978,5.922,-1.972
+AI (umbrella),representation,29,997,5.92,-1.999
+AI (umbrella),define,29,1000,5.92,-2.004
+AI (umbrella),structure,30,1597,5.915,-2.63
+AI (umbrella),follow,30,1680,5.907,-2.703
+AI (umbrella),archival,28,614,5.905,-1.351
+AI (umbrella),purpose,28,633,5.903,-1.395
+AI (umbrella),curriculum,27,114,5.9,1.026
+AI (umbrella),measure,28,685,5.898,-1.509
+AI (umbrella),type,29,1289,5.893,-2.37
+AI (umbrella),hybrid,27,198,5.892,0.23
+AI (umbrella),transcription,28,767,5.891,-1.672
+AI (umbrella),european,27,342,5.878,-0.559
+AI (umbrella),code,28,904,5.878,-1.909
+AI (umbrella),able,28,926,5.876,-1.943
+AI (umbrella),fully,27,420,5.871,-0.855
+AI (umbrella),architecture,27,426,5.87,-0.876
+AI (umbrella),people,32,3282,5.866,-3.576
+AI (umbrella),solution,27,515,5.862,-1.149
+AI (umbrella),agency,27,526,5.861,-1.18
+AI (umbrella),aaai,26,29,5.854,2.947
+AI (umbrella),trustworthy,26,51,5.852,2.132
+AI (umbrella),transformative,26,129,5.845,0.793
+AI (umbrella),embrace,26,142,5.843,0.655
+AI (umbrella),pedagogy,26,177,5.84,0.337
+AI (umbrella),medical,26,181,5.839,0.305
+AI (umbrella),ocr,27,820,5.833,-1.821
+AI (umbrella),foster,26,251,5.833,-0.167
+AI (umbrella),composition,26,252,5.833,-0.173
+AI (umbrella),accuracy,27,846,5.831,-1.866
+AI (umbrella),tend,26,292,5.829,-0.385
+AI (umbrella),complex,27,894,5.826,-1.945
+AI (umbrella),simply,26,355,5.823,-0.667
+AI (umbrella),utilize,26,417,5.817,-0.899
+AI (umbrella),core,26,450,5.814,-1.009
+AI (umbrella),associate,26,478,5.811,-1.096
+AI (umbrella),infrastructure,27,1138,5.804,-2.293
+AI (umbrella),decision,26,589,5.8,-1.398
+AI (umbrella),effect,26,606,5.799,-1.439
+AI (umbrella),space,27,1223,5.796,-2.397
+AI (umbrella),section,27,1305,5.789,-2.491
+AI (umbrella),participant,26,747,5.786,-1.74
+AI (umbrella),long,27,1348,5.785,-2.538
+AI (umbrella),promise,25,179,5.783,0.264
+AI (umbrella),achieve,26,788,5.782,-1.818
+AI (umbrella),give,27,1414,5.779,-2.607
+AI (umbrella),recommendation,25,228,5.778,-0.085
+AI (umbrella),comparative,25,246,5.777,-0.195
+AI (umbrella),transparency,25,259,5.775,-0.269
+AI (umbrella),documentation,25,326,5.769,-0.601
+AI (umbrella),meaning,26,951,5.767,-2.089
+AI (umbrella),capacity,25,366,5.765,-0.768
+AI (umbrella),developer,25,380,5.764,-0.822
+AI (umbrella),possible,26,997,5.762,-2.157
+AI (umbrella),reduce,25,435,5.758,-1.017
+AI (umbrella),llms,27,1706,5.753,-2.877
+AI (umbrella),gap,25,506,5.752,-1.235
+AI (umbrella),determine,25,512,5.751,-1.252
+AI (umbrella),limit,25,542,5.748,-1.334
+AI (umbrella),face,25,560,5.747,-1.381
+AI (umbrella),position,25,584,5.744,-1.442
+AI (umbrella),condition,25,692,5.734,-1.687
+AI (umbrella),see,25,713,5.732,-1.73
+AI (umbrella),fact,25,759,5.728,-1.82
+AI (umbrella),instance,25,789,5.725,-1.876
+AI (umbrella),perception,24,283,5.714,-0.456
+AI (umbrella),evolution,24,322,5.71,-0.642
+AI (umbrella),notion,24,347,5.708,-0.75
+AI (umbrella),assessment,24,356,5.707,-0.787
+AI (umbrella),trend,24,384,5.704,-0.896
+AI (umbrella),provenance,24,463,5.697,-1.166
+AI (umbrella),llm,27,2436,5.69,-3.391
+AI (umbrella),begin,24,548,5.689,-1.409
+AI (umbrella),collection,26,1902,5.682,-3.089
+AI (umbrella),scientist,24,629,5.681,-1.608
+AI (umbrella),group,25,1266,5.681,-2.558
+AI (umbrella),diffusion,24,638,5.68,-1.628
+AI (umbrella),reader,25,1296,5.679,-2.592
+AI (umbrella),regulatory,23,72,5.673,1.458
+AI (umbrella),classroom,23,166,5.664,0.253
+AI (umbrella),philosophical,23,215,5.659,-0.121
+AI (umbrella),note,24,872,5.658,-2.079
+AI (umbrella),merely,23,235,5.657,-0.249
+AI (umbrella),capable,23,260,5.655,-0.395
+AI (umbrella),artistic,23,290,5.652,-0.552
+AI (umbrella),end,24,979,5.649,-2.246
+AI (umbrella),stylistic,23,323,5.649,-0.708
+AI (umbrella),imagine,23,332,5.648,-0.747
+AI (umbrella),scale,24,1023,5.645,-2.31
+AI (umbrella),explain,23,462,5.636,-1.224
+AI (umbrella),strong,23,455,5.636,-1.202
+AI (umbrella),clear,23,504,5.632,-1.35
+AI (umbrella),title,23,689,5.614,-1.801
+AI (umbrella),comparison,23,707,5.612,-1.838
+AI (umbrella),revolutionize,22,58,5.61,1.706
+AI (umbrella),detector,22,64,5.61,1.564
+AI (umbrella),feature,24,1427,5.608,-2.79
+AI (umbrella),us,22,127,5.604,0.575
+AI (umbrella),close,23,824,5.602,-2.059
+AI (umbrella),generator,22,160,5.6,0.242
+AI (umbrella),aid,22,205,5.596,-0.116
+AI (umbrella),industry,22,222,5.594,-0.231
+AI (umbrella),teaching,22,234,5.593,-0.307
+AI (umbrella),reconstruction,22,265,5.59,-0.486
+AI (umbrella),read,23,971,5.588,-2.296
+AI (umbrella),reference,23,970,5.588,-2.294
+AI (umbrella),judge,22,285,5.588,-0.591
+AI (umbrella),annotation,23,982,5.587,-2.312
+AI (umbrella),acknowledge,22,318,5.585,-0.749
+AI (umbrella),phase,22,379,5.579,-1.003
+AI (umbrella),argument,22,423,5.575,-1.161
+AI (umbrella),comprehensive,22,450,5.573,-1.25
+AI (umbrella),character,23,1163,5.57,-2.556
+AI (umbrella),available,23,1260,5.562,-2.672
+AI (umbrella),great,22,595,5.559,-1.653
+AI (umbrella),know,23,1287,5.559,-2.702
+AI (umbrella),relation,22,676,5.551,-1.837
+AI (umbrella),communication,22,687,5.55,-1.861
+AI (umbrella),subject,22,712,5.548,-1.912
+AI (umbrella),stage,22,736,5.546,-1.96
+AI (umbrella),control,22,754,5.544,-1.995
+AI (umbrella),activity,22,764,5.543,-2.014
+AI (umbrella),accelerate,21,95,5.54,0.927
+AI (umbrella),symbolic,21,145,5.535,0.316
+AI (umbrella),surround,21,169,5.532,0.096
+AI (umbrella),powerful,21,210,5.529,-0.218
+AI (umbrella),actually,21,219,5.528,-0.278
+AI (umbrella),critique,21,238,5.526,-0.398
+AI (umbrella),look,22,955,5.525,-2.336
+AI (umbrella),primarily,21,292,5.521,-0.693
+AI (umbrella),paradigm,21,335,5.516,-0.892
+AI (umbrella),share,22,1053,5.516,-2.477
+AI (umbrella),essential,21,395,5.511,-1.129
+AI (umbrella),reach,21,399,5.51,-1.144
+AI (umbrella),volume,21,455,5.505,-1.333
+AI (umbrella),maintain,21,477,5.503,-1.401
+AI (umbrella),skill,21,581,5.493,-1.686
+AI (umbrella),linguistic,21,661,5.486,-1.872
+AI (umbrella),main,21,698,5.482,-1.951
+AI (umbrella),instead,21,713,5.481,-1.981
+AI (umbrella),turn,21,758,5.476,-2.07
+AI (umbrella),poem,21,785,5.474,-2.12
+AI (umbrella),widespread,20,91,5.47,0.918
+AI (umbrella),life,21,838,5.469,-2.214
+AI (umbrella),director,20,93,5.469,0.887
+AI (umbrella),similarly,20,223,5.457,-0.375
+AI (umbrella),linguistics,20,257,5.454,-0.58
+AI (umbrella),fair,20,255,5.454,-0.568
+AI (umbrella),lie,20,266,5.453,-0.629
+AI (umbrella),advantage,20,258,5.453,-0.585
+AI (umbrella),perceive,20,288,5.451,-0.744
+AI (umbrella),place,21,1100,5.445,-2.607
+AI (umbrella),teach,20,371,5.443,-1.109
+AI (umbrella),encourage,20,373,5.442,-1.117
+AI (umbrella),effective,20,394,5.44,-1.196
+AI (umbrella),correct,20,414,5.439,-1.267
+AI (umbrella),methodological,20,443,5.436,-1.365
+AI (umbrella),expression,20,450,5.435,-1.388
+AI (umbrella),journal,20,534,5.427,-1.635
+AI (umbrella),nature,20,655,5.416,-1.929
+AI (umbrella),institution,20,678,5.414,-1.979
+AI (umbrella),start,20,687,5.413,-1.998
+AI (umbrella),sense,20,733,5.408,-2.092
+AI (umbrella),similar,20,739,5.408,-2.103
+AI (umbrella),particular,20,847,5.398,-2.3
+AI (umbrella),predictive,19,97,5.395,0.752
+AI (umbrella),step,20,932,5.39,-2.438
+AI (umbrella),fundamentally,19,166,5.388,-0.023
+AI (umbrella),epistemological,19,204,5.385,-0.32
+AI (umbrella),law,19,245,5.381,-0.585
+AI (umbrella),engine,19,257,5.38,-0.654
+AI (umbrella),classify,19,254,5.38,-0.637
+AI (umbrella),moment,19,274,5.378,-0.746
+AI (umbrella),promote,19,292,5.376,-0.838
+AI (umbrella),inform,19,300,5.375,-0.877
+AI (umbrella),computing,19,323,5.373,-0.983
+AI (umbrella),artist,19,357,5.37,-1.128
+AI (umbrella),exploration,19,393,5.367,-1.266
+AI (umbrella),behavior,19,401,5.366,-1.295
+AI (umbrella),attempt,19,405,5.365,-1.31
+AI (umbrella),publishing,19,423,5.364,-1.373
+AI (umbrella),contrast,19,433,5.363,-1.406
+AI (umbrella),interdisciplinary,19,445,5.362,-1.446
+AI (umbrella),analyse,19,466,5.36,-1.512
+AI (umbrella),complexity,19,479,5.358,-1.552
+AI (umbrella),translate,19,504,5.356,-1.625
+AI (umbrella),qualitative,19,501,5.356,-1.617
+AI (umbrella),dynamic,19,512,5.355,-1.648
+AI (umbrella),capture,19,560,5.351,-1.777
+AI (umbrella),addition,19,552,5.351,-1.757
+AI (umbrella),pre,19,631,5.344,-1.949
+AI (umbrella),kind,19,664,5.341,-2.023
+AI (umbrella),element,19,766,5.331,-2.229
+AI (umbrella),relevant,19,791,5.329,-2.276
+AI (umbrella),conduct,19,806,5.328,-2.303
+AI (umbrella),disclosure,18,48,5.322,1.689
+AI (umbrella),tools,18,74,5.319,1.065
+AI (umbrella),job,18,142,5.313,0.124
+AI (umbrella),sophisticated,18,134,5.313,0.208
+AI (umbrella),simulate,18,179,5.309,-0.21
+AI (umbrella),order,19,1066,5.304,-2.706
+AI (umbrella),creator,18,241,5.303,-0.639
+AI (umbrella),professor,18,255,5.302,-0.72
+AI (umbrella),authority,18,263,5.301,-0.765
+AI (umbrella),multilingual,18,273,5.3,-0.819
+AI (umbrella),automatically,18,274,5.3,-0.824
+AI (umbrella),game,18,281,5.299,-0.86
+AI (umbrella),fundamental,18,293,5.298,-0.921
+AI (umbrella),prove,18,295,5.298,-0.931
+AI (umbrella),century,19,1137,5.297,-2.799
+AI (umbrella),conversation,18,312,5.296,-1.011
+AI (umbrella),accessibility,18,339,5.294,-1.131
+AI (umbrella),mark,18,344,5.293,-1.152
+AI (umbrella),currently,18,350,5.293,-1.177
+AI (umbrella),highly,18,385,5.289,-1.315
+AI (umbrella),affect,18,390,5.289,-1.333
+AI (umbrella),try,18,395,5.288,-1.352
+AI (umbrella),gpt,18,398,5.288,-1.363
+AI (umbrella),speak,18,405,5.287,-1.388
+AI (umbrella),institute,18,404,5.287,-1.384
+AI (umbrella),hold,18,413,5.287,-1.416
+AI (umbrella),illustrate,18,404,5.287,-1.384
+AI (umbrella),page,19,1265,5.285,-2.953
+AI (umbrella),component,18,485,5.28,-1.648
+AI (umbrella),object,19,1356,5.277,-3.053
+AI (umbrella),quantitative,18,510,5.277,-1.72
+AI (umbrella),directly,18,522,5.276,-1.754
+AI (umbrella),seek,18,544,5.274,-1.813
+AI (umbrella),appear,18,553,5.273,-1.837
+AI (umbrella),refer,18,609,5.268,-1.976
+AI (umbrella),course,18,616,5.267,-1.993
+AI (umbrella),common,18,636,5.265,-2.039
+AI (umbrella),range,18,679,5.261,-2.133
+AI (umbrella),slop,17,22,5.242,2.732
+AI (umbrella),hype,17,59,5.238,1.309
+AI (umbrella),safety,17,68,5.237,1.104
+AI (umbrella),microfiction,17,77,5.237,0.925
+AI (umbrella),metric,18,952,5.236,-2.621
+AI (umbrella),philology,17,113,5.233,0.371
+AI (umbrella),robot,17,124,5.232,0.237
+AI (umbrella),philological,17,138,5.231,0.083
+AI (umbrella),non,18,1013,5.23,-2.71
+AI (umbrella),inclusive,17,153,5.229,-0.066
+AI (umbrella),storytelling,17,169,5.228,-0.209
+AI (umbrella),pedagogical,17,184,5.226,-0.332
+AI (umbrella),centre,17,198,5.225,-0.438
+AI (umbrella),balance,17,245,5.22,-0.745
+AI (umbrella),intervention,17,257,5.219,-0.814
+AI (umbrella),widely,17,255,5.219,-0.803
+AI (umbrella),potentially,17,272,5.218,-0.896
+AI (umbrella),loop,17,274,5.217,-0.906
+AI (umbrella),catalogue,17,284,5.217,-0.958
+AI (umbrella),talk,17,319,5.213,-1.126
+AI (umbrella),nlp,17,336,5.212,-1.201
+AI (umbrella),crucial,17,340,5.211,-1.218
+AI (umbrella),theme,17,385,5.207,-1.397
+AI (umbrella),voice,17,396,5.206,-1.438
+AI (umbrella),modeling,17,390,5.206,-1.416
+AI (umbrella),day,17,422,5.203,-1.53
+AI (umbrella),frame,17,460,5.2,-1.654
+AI (umbrella),summary,17,459,5.2,-1.651
+AI (umbrella),importance,17,477,5.198,-1.706
+AI (umbrella),multi,17,552,5.191,-1.917
+AI (umbrella),low,17,615,5.185,-2.073
+AI (umbrella),observe,17,655,5.181,-2.164
+AI (umbrella),post,17,655,5.181,-2.164
+AI (umbrella),query,17,688,5.178,-2.235
+AI (umbrella),error,17,771,5.17,-2.399
+AI (umbrella),publication,17,916,5.157,-2.648
+AI (umbrella),harness,16,62,5.151,1.15
+AI (umbrella),willingness,16,55,5.151,1.323
+AI (umbrella),healthcare,16,59,5.151,1.221
+AI (umbrella),revolution,16,122,5.145,0.173
+AI (umbrella),march,16,138,5.143,-0.004
+AI (umbrella),centric,16,143,5.143,-0.056
+AI (umbrella),government,16,152,5.142,-0.144
+AI (umbrella),analytic,16,150,5.142,-0.125
+AI (umbrella),ecosystem,16,173,5.14,-0.331
+AI (umbrella),growth,16,168,5.14,-0.288
+AI (umbrella),draft,16,166,5.14,-0.271
+AI (umbrella),struggle,16,188,5.138,-0.451
+AI (umbrella),innovative,16,196,5.138,-0.511
+AI (umbrella),partner,16,202,5.137,-0.554
+AI (umbrella),navigate,16,229,5.134,-0.735
+AI (umbrella),actor,16,263,5.131,-0.935
+AI (umbrella),release,16,303,5.127,-1.139
+AI (umbrella),intellectual,16,330,5.125,-1.262
+AI (umbrella),late,16,323,5.125,-1.231
+AI (umbrella),automatic,16,371,5.121,-1.431
+AI (umbrella),additionally,16,377,5.12,-1.454
+AI (umbrella),conceptual,16,409,5.117,-1.572
+AI (umbrella),interview,16,419,5.116,-1.607
+AI (umbrella),feedback,16,432,5.115,-1.651
+AI (umbrella),foundation,16,428,5.115,-1.637
+AI (umbrella),reason,16,487,5.11,-1.824
+AI (umbrella),ground,16,524,5.106,-1.929
+AI (umbrella),align,16,560,5.103,-2.025
+AI (umbrella),workshop,16,702,5.089,-2.351
+AI (umbrella),goal,16,728,5.087,-2.404
+AI (umbrella),team,16,767,5.083,-2.479
+AI (umbrella),interest,16,800,5.08,-2.54
+AI (umbrella),manuscript,16,887,5.072,-2.689
+AI (umbrella),record,16,895,5.071,-2.702
+AI (umbrella),version,16,937,5.068,-2.768
+AI (umbrella),declaration,15,49,5.059,1.396
+AI (umbrella),higher,15,56,5.058,1.204
+AI (umbrella),antiquity,15,58,5.058,1.153
+AI (umbrella),reliance,15,70,5.057,0.882
+AI (umbrella),complicate,15,68,5.057,0.924
+AI (umbrella),hallucination,15,112,5.053,0.204
+AI (umbrella),rapidly,15,109,5.053,0.243
+AI (umbrella),url,15,103,5.053,0.324
+AI (umbrella),deployment,15,112,5.053,0.204
+AI (umbrella),replicate,15,122,5.052,0.08
+AI (umbrella),intertextual,15,129,5.051,-0.0
+AI (umbrella),suggestion,15,152,5.049,-0.237
+AI (umbrella),segmentation,15,151,5.049,-0.227
+AI (umbrella),situate,15,155,5.048,-0.265
+AI (umbrella),style,16,1150,5.048,-3.063
+AI (umbrella),simulation,15,155,5.048,-0.265
+AI (umbrella),mask,15,183,5.046,-0.505
+AI (umbrella),bridge,15,245,5.04,-0.926
+AI (umbrella),statement,15,256,5.039,-0.989
+AI (umbrella),emotional,15,254,5.039,-0.978
+AI (umbrella),inquiry,15,278,5.037,-1.108
+AI (umbrella),systematic,15,283,5.036,-1.134
+AI (umbrella),experimental,15,290,5.035,-1.169
+AI (umbrella),consideration,15,294,5.035,-1.189
+AI (umbrella),valuable,15,291,5.035,-1.174
+AI (umbrella),boundary,15,300,5.034,-1.218
+AI (umbrella),distinguish,15,311,5.033,-1.27
+AI (umbrella),major,15,328,5.032,-1.347
+AI (umbrella),overview,15,331,5.031,-1.36
+AI (umbrella),requirement,15,341,5.03,-1.403
+AI (umbrella),meta,15,387,5.026,-1.585
+AI (umbrella),unique,15,397,5.025,-1.622
+AI (umbrella),go,15,404,5.024,-1.647
+AI (umbrella),organization,15,411,5.024,-1.672
+AI (umbrella),connect,15,476,5.018,-1.884
+AI (umbrella),visualization,15,474,5.018,-1.878
+AI (umbrella),account,15,548,5.011,-2.087
+AI (umbrella),classification,15,583,5.007,-2.176
+AI (umbrella),discipline,15,614,5.005,-2.251
+AI (umbrella),right,15,634,5.003,-2.297
+AI (umbrella),benchmark,15,629,5.003,-2.286
+AI (umbrella),second,15,710,4.995,-2.461
+AI (umbrella),english,15,781,4.989,-2.598
+AI (umbrella),multiple,15,858,4.982,-2.734
+AI (umbrella),cataloguing,14,38,4.96,1.664
+AI (umbrella),amplify,14,60,4.958,1.005
+AI (umbrella),experimentation,14,111,4.953,0.117
+AI (umbrella),transkribus,14,114,4.953,0.079
+AI (umbrella),competence,14,112,4.953,0.104
+AI (umbrella),cooperation,14,111,4.953,0.117
+AI (umbrella),threat,14,109,4.953,0.143
+AI (umbrella),reinforce,14,153,4.949,-0.346
+AI (umbrella),archives,14,205,4.944,-0.768
+AI (umbrella),pass,14,203,4.944,-0.754
+AI (umbrella),commercial,14,212,4.943,-0.816
+AI (umbrella),explanation,14,212,4.943,-0.816
+AI (umbrella),distinction,14,237,4.941,-0.977
+AI (umbrella),presence,14,234,4.941,-0.959
+AI (umbrella),popular,14,249,4.94,-1.049
+AI (umbrella),demand,14,255,4.939,-1.083
+AI (umbrella),thematic,14,261,4.939,-1.116
+AI (umbrella),effectiveness,14,252,4.939,-1.066
+AI (umbrella),initiative,14,282,4.937,-1.228
+AI (umbrella),school,14,286,4.936,-1.248
+AI (umbrella),making,14,293,4.936,-1.283
+AI (umbrella),extent,14,294,4.935,-1.288
+AI (umbrella),number,15,1380,4.934,-3.419
+AI (umbrella),interact,14,351,4.93,-1.544
+AI (umbrella),temporal,14,376,4.928,-1.643
+AI (umbrella),cognitive,14,388,4.926,-1.688
+AI (umbrella),initial,14,449,4.921,-1.899
+AI (umbrella),previous,14,518,4.914,-2.105
+AI (umbrella),wide,14,543,4.912,-2.173
+AI (umbrella),additional,14,547,4.911,-2.184
+AI (umbrella),dimension,14,578,4.908,-2.263
+AI (umbrella),certain,14,585,4.908,-2.281
+AI (umbrella),effort,14,596,4.907,-2.308
+AI (umbrella),past,14,610,4.905,-2.341
+AI (umbrella),diverse,14,633,4.903,-2.395
+AI (umbrella),genre,14,657,4.901,-2.448
+AI (umbrella),answer,14,697,4.897,-2.534
+AI (umbrella),difference,14,699,4.897,-2.538
+AI (umbrella),attention,14,743,4.893,-2.626
+AI (umbrella),hand,14,745,4.893,-2.63
+AI (umbrella),contain,14,859,4.882,-2.835
+AI (umbrella),individual,14,1109,4.859,-3.204
+AI (umbrella),interventive,13,16,4.856,2.805
+AI (umbrella),incorporation,13,38,4.853,1.557
+AI (umbrella),humanlike,13,53,4.852,1.077
+AI (umbrella),supply,13,76,4.85,0.557
+AI (umbrella),ready,13,101,4.847,0.146
+AI (umbrella),culturally,13,106,4.847,0.077
+AI (umbrella),native,13,108,4.847,0.05
+AI (umbrella),smart,13,111,4.846,0.01
+AI (umbrella),educator,13,115,4.846,-0.041
+AI (umbrella),synthesize,13,110,4.846,0.023
+AI (umbrella),coding,13,119,4.845,-0.09
+AI (umbrella),protection,13,133,4.844,-0.251
+AI (umbrella),underscore,13,149,4.843,-0.415
+AI (umbrella),personalized,13,143,4.843,-0.355
+AI (umbrella),tendency,13,149,4.843,-0.415
+AI (umbrella),feed,13,159,4.842,-0.508
+AI (umbrella),sector,13,160,4.841,-0.517
+AI (umbrella),barrier,13,186,4.839,-0.735
+AI (umbrella),arise,13,210,4.837,-0.91
+AI (umbrella),digitization,13,218,4.836,-0.964
+AI (umbrella),enrich,13,246,4.833,-1.138
+AI (umbrella),neural,13,252,4.833,-1.173
+AI (umbrella),clearly,13,250,4.833,-1.161
+AI (umbrella),vast,13,248,4.833,-1.15
+AI (umbrella),ultimately,13,258,4.832,-1.207
+AI (umbrella),fail,13,278,4.83,-1.314
+AI (umbrella),explicit,13,276,4.83,-1.304
+AI (umbrella),predict,13,293,4.829,-1.39
+AI (umbrella),interpretive,13,301,4.828,-1.429
+AI (umbrella),encounter,13,310,4.827,-1.472
+AI (umbrella),improvement,13,308,4.827,-1.462
+AI (umbrella),direction,13,305,4.827,-1.448
+AI (umbrella),depth,13,307,4.827,-1.458
+AI (umbrella),stable,13,322,4.826,-1.526
+AI (umbrella),difficult,13,356,4.823,-1.671
+AI (umbrella),retrieval,13,353,4.823,-1.659
+AI (umbrella),structural,13,353,4.823,-1.659
+AI (umbrella),meet,13,359,4.822,-1.683
+AI (umbrella),receive,13,381,4.82,-1.769
+AI (umbrella),definition,13,402,4.818,-1.847
+AI (umbrella),expect,13,400,4.818,-1.839
+AI (umbrella),central,13,414,4.817,-1.889
+AI (umbrella),cost,13,416,4.817,-1.896
+AI (umbrella),property,13,411,4.817,-1.878
+AI (umbrella),gain,13,420,4.816,-1.91
+AI (umbrella),ancient,13,431,4.815,-1.947
+AI (umbrella),theoretical,13,434,4.815,-1.957
+AI (umbrella),far,13,448,4.814,-2.003
+AI (umbrella),connection,13,460,4.813,-2.041
+AI (umbrella),cross,13,514,4.808,-2.201
+AI (umbrella),humanist,13,548,4.804,-2.294
+AI (umbrella),layer,13,546,4.804,-2.288
+AI (umbrella),collect,13,559,4.803,-2.322
+AI (umbrella),draw,13,604,4.799,-2.434
+AI (umbrella),name,13,628,4.797,-2.49
+AI (umbrella),extract,13,718,4.788,-2.683
+AI (umbrella),similarity,13,738,4.786,-2.723
+AI (umbrella),edit,13,1087,4.754,-3.282
+AI (umbrella),score,13,1164,4.747,-3.38
+AI (umbrella),provocation,12,38,4.738,1.441
+AI (umbrella),xai,12,45,4.737,1.197
+AI (umbrella),imagery,12,67,4.735,0.623
+AI (umbrella),disrupt,12,69,4.735,0.581
+AI (umbrella),libraries,12,88,4.733,0.23
+AI (umbrella),multimedia,12,85,4.733,0.28
+AI (umbrella),dominate,12,93,4.733,0.15
+AI (umbrella),involvement,12,88,4.733,0.23
+AI (umbrella),excel,12,100,4.732,0.045
+AI (umbrella),systems,12,112,4.731,-0.118
+AI (umbrella),protect,12,113,4.731,-0.131
+AI (umbrella),joint,12,124,4.73,-0.265
+AI (umbrella),accountability,12,114,4.73,-0.144
+AI (umbrella),prose,12,127,4.729,-0.3
+AI (umbrella),authenticity,12,138,4.728,-0.419
+AI (umbrella),integrity,12,153,4.727,-0.568
+AI (umbrella),china,12,155,4.726,-0.587
+AI (umbrella),emphasis,12,177,4.724,-0.779
+AI (umbrella),independent,12,185,4.724,-0.842
+AI (umbrella),intelligent,12,187,4.723,-0.858
+AI (umbrella),swedish,12,201,4.722,-0.962
+AI (umbrella),respond,12,202,4.722,-0.969
+AI (umbrella),recently,12,207,4.721,-1.004
+AI (umbrella),mining,12,222,4.72,-1.105
+AI (umbrella),cause,12,223,4.72,-1.112
+AI (umbrella),engineering,12,232,4.719,-1.169
+AI (umbrella),market,12,230,4.719,-1.156
+AI (umbrella),dialogue,12,243,4.718,-1.236
+AI (umbrella),teacher,12,246,4.718,-1.253
+AI (umbrella),accept,12,244,4.718,-1.242
+AI (umbrella),analytical,12,251,4.717,-1.283
+AI (umbrella),hard,12,265,4.716,-1.361
+AI (umbrella),logic,12,264,4.716,-1.355
+AI (umbrella),refine,12,275,4.715,-1.414
+AI (umbrella),combination,12,288,4.714,-1.481
+AI (umbrella),contextual,12,308,4.712,-1.578
+AI (umbrella),black,12,303,4.712,-1.554
+AI (umbrella),operation,12,316,4.711,-1.615
+AI (umbrella),related,12,312,4.711,-1.596
+AI (umbrella),outline,12,331,4.71,-1.682
+AI (umbrella),furthermore,12,334,4.709,-1.695
+AI (umbrella),factor,12,348,4.708,-1.754
+AI (umbrella),institutional,12,352,4.707,-1.77
+AI (umbrella),depend,12,389,4.704,-1.915
+AI (umbrella),rule,12,413,4.702,-2.001
+AI (umbrella),copy,12,407,4.702,-1.98
+AI (umbrella),truth,12,409,4.702,-1.987
+AI (umbrella),openai,12,418,4.701,-2.018
+AI (umbrella),complete,12,434,4.7,-2.073
+AI (umbrella),identity,12,428,4.7,-2.052
+AI (umbrella),objective,12,459,4.697,-2.153
+AI (umbrella),adapt,12,473,4.696,-2.197
+AI (umbrella),rate,12,470,4.696,-2.187
+AI (umbrella),setting,12,484,4.695,-2.23
+AI (umbrella),media,12,490,4.694,-2.248
+AI (umbrella),evidence,12,496,4.694,-2.265
+AI (umbrella),pipeline,12,613,4.683,-2.571
+AI (umbrella),label,12,623,4.682,-2.594
+AI (umbrella),accord,12,646,4.68,-2.646
+AI (umbrella),want,12,680,4.676,-2.72
+AI (umbrella),database,12,1001,4.647,-3.278
+AI (umbrella),agents,11,22,4.614,2.104
+AI (umbrella),editing,12,1360,4.614,-3.72
+AI (umbrella),blob,11,17,4.614,2.476
+AI (umbrella),masked,11,33,4.613,1.519
+AI (umbrella),prohibit,11,32,4.613,1.564
+AI (umbrella),pangram,11,33,4.613,1.519
+AI (umbrella),robotic,11,50,4.611,0.92
+AI (umbrella),monitor,11,60,4.61,0.657
+AI (umbrella),encyclopedic,11,62,4.61,0.609
+AI (umbrella),applicability,11,70,4.609,0.434
+AI (umbrella),safe,11,74,4.609,0.354
+AI (umbrella),lecture,11,81,4.608,0.224
+AI (umbrella),govern,11,84,4.608,0.171
+AI (umbrella),heavily,11,79,4.608,0.26
+AI (umbrella),redefine,11,86,4.608,0.137
+AI (umbrella),autonomous,11,104,4.606,-0.137
+AI (umbrella),trajectory,11,111,4.605,-0.231
+AI (umbrella),rag,11,122,4.604,-0.367
+AI (umbrella),artwork,11,136,4.603,-0.524
+AI (umbrella),dominant,11,146,4.602,-0.626
+AI (umbrella),deploy,11,142,4.602,-0.586
+AI (umbrella),deepseek,11,146,4.602,-0.626
+AI (umbrella),verification,11,140,4.602,-0.566
+AI (umbrella),college,11,156,4.601,-0.722
+AI (umbrella),edge,11,163,4.6,-0.785
+AI (umbrella),lens,11,162,4.6,-0.776
+AI (umbrella),mix,11,166,4.6,-0.812
+AI (umbrella),successful,11,169,4.6,-0.837
+AI (umbrella),acquire,11,186,4.598,-0.976
+AI (umbrella),handwritten,11,200,4.597,-1.08
+AI (umbrella),reproduce,11,192,4.597,-1.021
+AI (umbrella),turing,11,207,4.596,-1.13
+AI (umbrella),efficient,11,217,4.595,-1.198
+AI (umbrella),reliable,11,222,4.594,-1.231
+AI (umbrella),distribute,11,222,4.594,-1.231
+AI (umbrella),stand,11,224,4.594,-1.244
+AI (umbrella),responsibility,11,229,4.594,-1.276
+AI (umbrella),happen,11,229,4.594,-1.276
+AI (umbrella),htr,11,241,4.593,-1.349
+AI (umbrella),explicitly,11,234,4.593,-1.307
+AI (umbrella),empirical,11,260,4.591,-1.459
+AI (umbrella),transcribe,11,257,4.591,-1.442
+AI (umbrella),manage,11,260,4.591,-1.459
+AI (umbrella),actual,11,260,4.591,-1.459
+AI (umbrella),classical,11,268,4.59,-1.503
+AI (umbrella),force,11,316,4.585,-1.74
+AI (umbrella),association,11,325,4.585,-1.781
+AI (umbrella),distant,11,323,4.585,-1.772
+AI (umbrella),situation,11,335,4.584,-1.825
+AI (umbrella),professional,11,410,4.576,-2.116
+AI (umbrella),memory,11,414,4.576,-2.13
+AI (umbrella),gemini,11,444,4.573,-2.231
+AI (umbrella),primary,11,482,4.57,-2.349
+AI (umbrella),instruction,11,519,4.566,-2.456
+AI (umbrella),add,11,725,4.547,-2.938
+AI (umbrella),entity,11,793,4.54,-3.068
+AI (umbrella),online,11,935,4.527,-3.305
+AI (umbrella),assisted,10,17,4.477,2.339
+AI (umbrella),explainability,10,41,4.475,1.068
+AI (umbrella),aigc,10,49,4.474,0.811
+AI (umbrella),perpetuate,10,53,4.473,0.698
+AI (umbrella),autonomy,10,59,4.473,0.543
+AI (umbrella),firm,10,55,4.473,0.645
+AI (umbrella),usefulness,10,73,4.471,0.236
+AI (umbrella),mathematic,10,84,4.47,0.034
+AI (umbrella),technologies,10,88,4.47,-0.033
+AI (umbrella),convergence,10,88,4.47,-0.033
+AI (umbrella),productive,10,102,4.469,-0.246
+AI (umbrella),provider,10,101,4.469,-0.232
+AI (umbrella),empower,10,95,4.469,-0.144
+AI (umbrella),perplexity,10,95,4.469,-0.144
+AI (umbrella),showcase,10,113,4.468,-0.394
+AI (umbrella),pilot,10,104,4.468,-0.274
+AI (umbrella),copilot,10,128,4.466,-0.574
+AI (umbrella),neutral,10,129,4.466,-0.585
+AI (umbrella),dall,10,135,4.465,-0.651
+AI (umbrella),cognition,10,138,4.465,-0.683
+AI (umbrella),foundational,10,139,4.465,-0.693
+AI (umbrella),realize,10,153,4.464,-0.831
+AI (umbrella),transparent,10,154,4.464,-0.841
+AI (umbrella),speed,10,151,4.464,-0.812
+AI (umbrella),strength,10,158,4.463,-0.878
+AI (umbrella),reliability,10,162,4.463,-0.914
+AI (umbrella),peer,10,171,4.462,-0.992
+AI (umbrella),expose,10,171,4.462,-0.992
+AI (umbrella),picture,10,193,4.46,-1.166
+AI (umbrella),attribution,10,193,4.46,-1.166
+AI (umbrella),difficulty,10,215,4.458,-1.322
+AI (umbrella),beginning,10,212,4.458,-1.302
+AI (umbrella),largely,10,219,4.457,-1.349
+AI (umbrella),ongoing,10,226,4.457,-1.394
+AI (umbrella),divide,10,217,4.457,-1.336
+AI (umbrella),handle,10,221,4.457,-1.362
+AI (umbrella),building,10,228,4.456,-1.407
+AI (umbrella),lose,10,242,4.455,-1.493
+AI (umbrella),iterative,10,240,4.455,-1.481
+AI (umbrella),path,10,252,4.454,-1.551
+AI (umbrella),decade,10,255,4.454,-1.568
+AI (umbrella),exhibit,10,263,4.453,-1.613
+AI (umbrella),audio,10,259,4.453,-1.591
+AI (umbrella),microsoft,10,267,4.453,-1.635
+AI (umbrella),respect,10,278,4.452,-1.693
+AI (umbrella),essay,10,275,4.452,-1.677
+AI (umbrella),validation,10,272,4.452,-1.661
+AI (umbrella),discover,10,288,4.451,-1.744
+AI (umbrella),outcome,10,288,4.451,-1.744
+AI (umbrella),editorial,10,287,4.451,-1.739
+AI (umbrella),synthesis,10,297,4.45,-1.788
+AI (umbrella),collective,10,294,4.45,-1.774
+AI (umbrella),assumption,10,302,4.449,-1.812
+AI (umbrella),bear,10,301,4.449,-1.808
+AI (umbrella),scenario,10,307,4.449,-1.836
+AI (umbrella),studies,10,319,4.448,-1.891
+AI (umbrella),reflection,10,337,4.446,-1.971
+AI (umbrella),limited,10,348,4.445,-2.017
+AI (umbrella),meaningful,10,349,4.445,-2.021
+AI (umbrella),easily,10,351,4.445,-2.029
+AI (umbrella),basic,10,358,4.444,-2.058
+AI (umbrella),prior,10,352,4.444,-2.033
+AI (umbrella),aesthetic,10,362,4.443,-2.074
+AI (umbrella),leave,10,410,4.439,-2.253
+AI (umbrella),speech,10,422,4.438,-2.295
+AI (umbrella),phenomenon,10,416,4.438,-2.274
+AI (umbrella),personal,10,419,4.438,-2.285
+AI (umbrella),claude,10,449,4.435,-2.385
+AI (umbrella),accessible,10,507,4.43,-2.56
+AI (umbrella),class,10,512,4.429,-2.574
+AI (umbrella),alignment,10,535,4.427,-2.637
+AI (umbrella),finally,10,543,4.426,-2.659
+AI (umbrella),short,10,567,4.424,-2.721
+AI (umbrella),preserve,10,618,4.419,-2.845
+AI (umbrella),sentence,10,632,4.418,-2.878
+AI (umbrella),map,10,644,4.417,-2.905
+AI (umbrella),fine,10,729,4.409,-3.084
+AI (umbrella),input,10,789,4.403,-3.198
+AI (umbrella),link,10,794,4.403,-3.207
+AI (umbrella),single,10,818,4.4,-3.25
+AI (umbrella),original,10,1126,4.372,-3.711
+AI (umbrella),table,10,1487,4.34,-4.112
+AI (umbrella),responsibly,9,27,4.324,1.519
+AI (umbrella),intensify,9,28,4.324,1.467
+AI (umbrella),threaten,9,36,4.323,1.104
+AI (umbrella),atlas,9,42,4.322,0.882
+AI (umbrella),vibe,9,48,4.322,0.689
+AI (umbrella),chronos,9,43,4.322,0.848
+AI (umbrella),unlock,9,55,4.321,0.493
+AI (umbrella),democratize,9,52,4.321,0.574
+AI (umbrella),disruption,9,60,4.321,0.367
+AI (umbrella),childhood,9,59,4.321,0.391
+AI (umbrella),fairness,9,55,4.321,0.493
+AI (umbrella),competition,9,66,4.32,0.23
+AI (umbrella),productivity,9,63,4.32,0.297
+AI (umbrella),envision,9,81,4.319,-0.066
+AI (umbrella),medicine,9,78,4.319,-0.011
+AI (umbrella),intertextuality,9,82,4.319,-0.084
+AI (umbrella),motif,9,85,4.318,-0.135
+AI (umbrella),inner,9,86,4.318,-0.152
+AI (umbrella),glam,9,91,4.318,-0.234
+AI (umbrella),consent,9,83,4.318,-0.101
+AI (umbrella),ontological,9,87,4.318,-0.169
+AI (umbrella),truly,9,102,4.317,-0.398
+AI (umbrella),augmentation,9,96,4.317,-0.311
+AI (umbrella),sphere,9,101,4.317,-0.384
+AI (umbrella),profound,9,105,4.316,-0.44
+AI (umbrella),careful,9,111,4.316,-0.52
+AI (umbrella),crisis,9,117,4.315,-0.596
+AI (umbrella),security,9,128,4.314,-0.726
+AI (umbrella),branch,9,127,4.314,-0.715
+AI (umbrella),specialized,9,132,4.314,-0.77
+AI (umbrella),economy,9,126,4.314,-0.703
+AI (umbrella),stem,9,124,4.314,-0.68
+AI (umbrella),consciousness,9,128,4.314,-0.726
+AI (umbrella),instrument,9,132,4.314,-0.77
+AI (umbrella),accurately,9,139,4.313,-0.845
+AI (umbrella),virtue,9,137,4.313,-0.824
+AI (umbrella),prominent,9,146,4.312,-0.916
+AI (umbrella),mitigate,9,153,4.312,-0.983
+AI (umbrella),engineer,9,156,4.311,-1.011
+AI (umbrella),simultaneously,9,158,4.311,-1.03
+AI (umbrella),guidance,9,173,4.31,-1.161
+AI (umbrella),imply,9,185,4.309,-1.257
+AI (umbrella),visualize,9,185,4.309,-1.257
+AI (umbrella),chain,9,180,4.309,-1.218
+AI (umbrella),status,9,195,4.308,-1.333
+AI (umbrella),cite,9,199,4.307,-1.363
+AI (umbrella),participate,9,214,4.306,-1.467
+AI (umbrella),critic,9,209,4.306,-1.433
+AI (umbrella),optimize,9,221,4.305,-1.514
+AI (umbrella),investigation,9,219,4.305,-1.501
+AI (umbrella),enter,9,222,4.305,-1.52
+AI (umbrella),assign,9,234,4.304,-1.596
+AI (umbrella),typically,9,246,4.303,-1.669
+AI (umbrella),validate,9,254,4.302,-1.715
+AI (umbrella),judgment,9,256,4.302,-1.726
+AI (umbrella),medieval,9,254,4.302,-1.715
+AI (umbrella),success,9,273,4.3,-1.819
+AI (umbrella),invite,9,269,4.3,-1.797
+AI (umbrella),distinct,9,288,4.299,-1.896
+AI (umbrella),positive,9,284,4.299,-1.876
+AI (umbrella),statistical,9,295,4.298,-1.931
+AI (umbrella),previously,9,319,4.296,-2.043
+AI (umbrella),constraint,9,345,4.293,-2.156
+AI (umbrella),characteristic,9,358,4.292,-2.21
+AI (umbrella),gender,9,356,4.292,-2.202
+AI (umbrella),trace,9,356,4.292,-2.202
+AI (umbrella),matter,9,361,4.292,-2.222
+AI (umbrella),easy,9,372,4.291,-2.265
+AI (umbrella),mechanism,9,401,4.288,-2.373
+AI (umbrella),annotate,9,448,4.283,-2.533
+AI (umbrella),mode,9,456,4.283,-2.559
+AI (umbrella),construct,9,473,4.281,-2.612
+AI (umbrella),political,9,493,4.279,-2.671
+AI (umbrella),editor,9,511,4.277,-2.723
+AI (umbrella),latin,9,545,4.274,-2.816
+AI (umbrella),internet,9,588,4.27,-2.926
+AI (umbrella),target,9,623,4.267,-3.009
+AI (umbrella),chapter,9,806,4.25,-3.381
+AI (umbrella),rendezvous,8,7,4.156,3.297
+AI (umbrella),richhf,8,8,4.156,3.104
+AI (umbrella),katol,8,9,4.156,2.934
+AI (umbrella),applications,8,18,4.155,1.934
+AI (umbrella),shanghai,8,15,4.155,2.197
+AI (umbrella),constructionism,8,13,4.155,2.404
+AI (umbrella),evade,8,13,4.155,2.404
+AI (umbrella),autonomously,8,26,4.154,1.404
+AI (umbrella),assurance,8,31,4.154,1.15
+AI (umbrella),regulate,8,39,4.153,0.819
+AI (umbrella),scrutinize,8,44,4.152,0.645
+AI (umbrella),opacity,8,44,4.152,0.645
+AI (umbrella),biased,8,49,4.152,0.489
+AI (umbrella),chi,8,49,4.152,0.489
+AI (umbrella),imaging,8,43,4.152,0.678
+AI (umbrella),ethically,8,44,4.152,0.645
+AI (umbrella),blur,8,43,4.152,0.678
+AI (umbrella),synergy,8,45,4.152,0.612
+AI (umbrella),acceptance,8,48,4.152,0.519
+AI (umbrella),transliteration,8,44,4.152,0.645
+AI (umbrella),frontier,8,56,4.151,0.297
+AI (umbrella),utilise,8,60,4.151,0.197
+AI (umbrella),properly,8,60,4.151,0.197
+AI (umbrella),magazine,8,70,4.15,-0.025
+AI (umbrella),underpin,8,68,4.15,0.017
+AI (umbrella),curatorial,8,68,4.15,0.017
+AI (umbrella),historiography,8,70,4.15,-0.025
+AI (umbrella),digitalization,8,63,4.15,0.127
+AI (umbrella),purely,8,81,4.149,-0.236
+AI (umbrella),principal,8,79,4.149,-0.2
+AI (umbrella),services,8,75,4.149,-0.125
+AI (umbrella),weak,8,76,4.149,-0.144
+AI (umbrella),oversight,8,82,4.149,-0.253
+AI (umbrella),resist,8,76,4.149,-0.144
+AI (umbrella),union,8,79,4.149,-0.2
+AI (umbrella),assert,8,90,4.148,-0.388
+AI (umbrella),ownership,8,88,4.148,-0.355
+AI (umbrella),modal,8,97,4.147,-0.496
+AI (umbrella),india,8,108,4.146,-0.651
+AI (umbrella),craft,8,108,4.146,-0.651
+AI (umbrella),proper,8,107,4.146,-0.637
+AI (umbrella),authorial,8,109,4.146,-0.664
+AI (umbrella),epistemology,8,104,4.146,-0.596
+AI (umbrella),correctly,8,113,4.146,-0.716
+AI (umbrella),prioritize,8,113,4.146,-0.716
+AI (umbrella),assignment,8,107,4.146,-0.637
+AI (umbrella),launch,8,116,4.145,-0.754
+AI (umbrella),push,8,123,4.145,-0.838
+AI (umbrella),massive,8,119,4.145,-0.791
+AI (umbrella),spread,8,124,4.145,-0.85
+AI (umbrella),clarify,8,116,4.145,-0.754
+AI (umbrella),promising,8,126,4.144,-0.873
+AI (umbrella),bad,8,129,4.144,-0.907
+AI (umbrella),myth,8,127,4.144,-0.885
+AI (umbrella),stream,8,133,4.144,-0.951
+AI (umbrella),terminology,8,132,4.144,-0.94
+AI (umbrella),collaborate,8,143,4.143,-1.056
+AI (umbrella),faculty,8,142,4.143,-1.046
+AI (umbrella),mainly,8,154,4.142,-1.163
+AI (umbrella),inclusion,8,151,4.142,-1.134
+AI (umbrella),business,8,160,4.141,-1.218
+AI (umbrella),sweden,8,161,4.141,-1.227
+AI (umbrella),minute,8,160,4.141,-1.218
+AI (umbrella),completely,8,169,4.14,-1.297
+AI (umbrella),continuous,8,173,4.14,-1.331
+AI (umbrella),inherent,8,170,4.14,-1.305
+AI (umbrella),characterize,8,168,4.14,-1.288
+AI (umbrella),significance,8,170,4.14,-1.305
+AI (umbrella),sciences,8,179,4.139,-1.38
+AI (umbrella),tech,8,182,4.139,-1.404
+AI (umbrella),actively,8,177,4.139,-1.364
+AI (umbrella),extension,8,187,4.138,-1.443
+AI (umbrella),systematically,8,191,4.138,-1.473
+AI (umbrella),cloud,8,198,4.137,-1.525
+AI (umbrella),track,8,201,4.137,-1.547
+AI (umbrella),forward,8,201,4.137,-1.547
+AI (umbrella),precisely,8,207,4.136,-1.589
+AI (umbrella),frequently,8,217,4.136,-1.657
+AI (umbrella),british,8,213,4.136,-1.631
+AI (umbrella),fall,8,214,4.136,-1.637
+AI (umbrella),programming,8,227,4.135,-1.722
+AI (umbrella),solve,8,225,4.135,-1.71
+AI (umbrella),labor,8,221,4.135,-1.684
+AI (umbrella),active,8,237,4.134,-1.785
+AI (umbrella),constitute,8,246,4.133,-1.838
+AI (umbrella),yield,8,238,4.133,-1.791
+AI (umbrella),miss,8,240,4.133,-1.803
+AI (umbrella),regard,8,261,4.131,-1.924
+AI (umbrella),parallel,8,274,4.13,-1.994
+AI (umbrella),conclude,8,288,4.129,-2.066
+AI (umbrella),presentation,8,293,4.128,-2.091
+AI (umbrella),intend,8,292,4.128,-2.086
+AI (umbrella),say,8,327,4.125,-2.249
+AI (umbrella),diversity,8,325,4.125,-2.24
+AI (umbrella),feel,8,328,4.125,-2.253
+AI (umbrella),session,8,335,4.124,-2.284
+AI (umbrella),scope,8,332,4.124,-2.271
+AI (umbrella),separate,8,341,4.124,-2.31
+AI (umbrella),interested,8,345,4.123,-2.326
+AI (umbrella),aware,8,365,4.121,-2.408
+AI (umbrella),basis,8,364,4.121,-2.404
+AI (umbrella),bert,8,376,4.12,-2.451
+AI (umbrella),reasoning,8,394,4.119,-2.518
+AI (umbrella),assume,8,399,4.118,-2.536
+AI (umbrella),attribute,8,404,4.118,-2.554
+AI (umbrella),tradition,8,404,4.118,-2.554
+AI (umbrella),believe,8,412,4.117,-2.582
+AI (umbrella),body,8,430,4.115,-2.644
+AI (umbrella),background,8,438,4.114,-2.671
+AI (umbrella),necessary,8,452,4.113,-2.716
+AI (umbrella),run,8,468,4.111,-2.766
+AI (umbrella),self,8,471,4.111,-2.776
+AI (umbrella),final,8,501,4.108,-2.865
+AI (umbrella),thing,8,514,4.107,-2.902
+AI (umbrella),distribution,8,622,4.097,-3.177
+AI (umbrella),list,8,690,4.09,-3.326
+AI (umbrella),select,8,823,4.078,-3.581
+AI (umbrella),format,8,883,4.072,-3.682
+LLM / language model,large,393,2591,10.443,1.526
+LLM / language model,language,436,5550,10.193,0.577
+LLM / language model,llms,288,1706,10.14,1.68
+LLM / language model,base,325,3883,9.981,0.668
+LLM / language model,generate,247,3215,9.679,0.545
+LLM / language model,model,405,9776,9.657,-0.346
+LLM / language model,prompt,177,2267,9.344,0.568
+LLM / language model,models,125,293,9.203,3.018
+LLM / language model,train,142,1339,9.185,1.01
+LLM / language model,output,143,1410,9.182,0.945
+LLM / language model,evaluation,143,1792,9.115,0.599
+LLM / language model,evaluate,134,1339,9.101,0.926
+LLM / language model,text,254,9175,9.038,-0.928
+LLM / language model,performance,121,1361,8.95,0.755
+LLM / language model,capability,109,677,8.928,1.612
+LLM / language model,use,167,4821,8.897,-0.605
+LLM / language model,judge,98,285,8.854,2.707
+LLM / language model,training,118,1768,8.842,0.341
+LLM / language model,llm,119,2436,8.744,-0.109
+LLM / language model,historical,111,2473,8.638,-0.231
+LLM / language model,ocr,90,820,8.624,1.059
+LLM / language model,multimodal,84,483,8.591,1.723
+LLM / language model,produce,94,1596,8.544,0.161
+LLM / language model,human,178,9308,8.513,-1.462
+LLM / language model,perform,81,966,8.444,0.671
+LLM / language model,generation,85,1506,8.415,0.1
+LLM / language model,task,87,2168,8.336,-0.392
+LLM / language model,generative,80,1463,8.335,0.054
+LLM / language model,response,71,670,8.311,1.008
+LLM / language model,open,82,1941,8.288,-0.318
+LLM / language model,agency,68,526,8.277,1.295
+LLM / language model,source,84,2393,8.249,-0.586
+LLM / language model,demonstrate,72,1096,8.249,0.319
+LLM / language model,general,68,870,8.21,0.569
+LLM / language model,embedding,67,802,8.201,0.665
+LLM / language model,vlm,62,308,8.188,1.934
+LLM / language model,tool,92,3687,8.187,-1.078
+LLM / language model,pre,64,631,8.169,0.945
+LLM / language model,encoder,61,318,8.163,1.865
+LLM / language model,process,85,3458,8.105,-1.1
+LLM / language model,image,89,4112,8.081,-1.283
+LLM / language model,fine,61,729,8.08,0.668
+LLM / language model,datum,105,6173,8.067,-1.631
+LLM / language model,tune,57,444,8.039,1.285
+LLM / language model,approach,78,3147,8.026,-1.088
+LLM / language model,leverage,55,387,7.999,1.432
+LLM / language model,current,59,918,7.996,0.287
+LLM / language model,code,58,904,7.974,0.285
+LLM / language model,vision,55,667,7.943,0.647
+LLM / language model,recent,55,672,7.942,0.636
+LLM / language model,different,70,2748,7.93,-1.048
+LLM / language model,literary,69,2703,7.916,-1.045
+LLM / language model,potential,57,1188,7.895,-0.135
+LLM / language model,modern,54,882,7.875,0.217
+LLM / language model,context,63,2244,7.858,-0.908
+LLM / language model,show,56,1372,7.836,-0.368
+LLM / language model,employ,51,661,7.835,0.551
+LLM / language model,provide,68,3183,7.823,-1.302
+LLM / language model,pipeline,48,613,7.757,0.572
+LLM / language model,ability,48,795,7.722,0.197
+LLM / language model,application,51,1267,7.72,-0.388
+LLM / language model,research,83,6268,7.717,-1.992
+LLM / language model,knowledge,59,2575,7.71,-1.201
+LLM / language model,result,62,3159,7.693,-1.424
+LLM / language model,benchmark,46,629,7.693,0.473
+LLM / language model,extraction,44,430,7.668,0.958
+LLM / language model,document,55,2224,7.665,-1.091
+LLM / language model,chatgpt,45,652,7.656,0.39
+LLM / language model,study,67,4242,7.654,-1.738
+LLM / language model,explore,49,1443,7.631,-0.633
+LLM / language model,translation,51,1778,7.63,-0.877
+LLM / language model,assess,44,643,7.626,0.378
+LLM / language model,increasingly,43,499,7.621,0.71
+LLM / language model,system,58,3087,7.608,-1.487
+LLM / language model,understand,50,1772,7.603,-0.901
+LLM / language model,framework,49,1605,7.602,-0.787
+LLM / language model,transformer,41,262,7.601,1.571
+LLM / language model,table,48,1487,7.593,-0.706
+LLM / language model,question,53,2355,7.59,-1.227
+LLM / language model,agent,43,659,7.589,0.309
+LLM / language model,test,45,1092,7.572,-0.354
+LLM / language model,vlms,39,65,7.571,3.51
+LLM / language model,introduction,41,520,7.548,0.582
+LLM / language model,include,54,2807,7.547,-1.453
+LLM / language model,expert,42,724,7.543,0.139
+LLM / language model,new,58,3541,7.542,-1.685
+LLM / language model,challenge,47,1616,7.54,-0.857
+LLM / language model,instruction,40,519,7.513,0.549
+LLM / language model,suggest,42,885,7.512,-0.15
+LLM / language model,visual,43,1153,7.495,-0.498
+LLM / language model,development,45,1621,7.477,-0.924
+LLM / language model,improve,41,898,7.474,-0.206
+LLM / language model,present,47,2069,7.463,-1.213
+LLM / language model,editing,43,1360,7.457,-0.736
+LLM / language model,bias,40,813,7.455,-0.098
+LLM / language model,purpose,39,633,7.454,0.226
+LLM / language model,dataset,49,2504,7.453,-1.429
+LLM / language model,pretrained,36,103,7.447,2.73
+LLM / language model,method,55,3697,7.443,-1.824
+LLM / language model,art,41,1089,7.438,-0.484
+LLM / language model,work,68,6199,7.437,-2.264
+LLM / language model,experiment,41,1127,7.431,-0.534
+LLM / language model,shot,37,420,7.421,0.742
+LLM / language model,enhance,39,816,7.418,-0.14
+LLM / language model,high,43,1717,7.395,-1.073
+LLM / language model,trained,34,117,7.362,2.464
+LLM / language model,direct,36,516,7.362,0.405
+LLM / language model,compare,39,1199,7.346,-0.695
+LLM / language model,reasoning,35,394,7.346,0.754
+LLM / language model,token,37,830,7.339,-0.241
+LLM / language model,assist,35,448,7.335,0.569
+LLM / language model,support,41,1685,7.331,-1.114
+LLM / language model,example,45,2600,7.316,-1.606
+LLM / language model,limitation,35,659,7.292,0.012
+LLM / language model,well,37,1095,7.289,-0.641
+LLM / language model,enable,38,1414,7.269,-0.971
+LLM / language model,case,42,2273,7.268,-1.511
+LLM / language model,apply,37,1256,7.259,-0.838
+LLM / language model,utilize,33,417,7.256,0.587
+LLM / language model,abstract,34,636,7.255,0.021
+LLM / language model,novel,36,1088,7.251,-0.671
+LLM / language model,design,42,2383,7.25,-1.579
+LLM / language model,learning,38,1552,7.245,-1.105
+LLM / language model,information,47,3551,7.237,-1.993
+LLM / language model,integrate,34,742,7.234,-0.201
+LLM / language model,processing,34,809,7.221,-0.326
+LLM / language model,outperform,31,231,7.204,1.349
+LLM / language model,capable,31,260,7.198,1.179
+LLM / language model,power,33,713,7.197,-0.187
+LLM / language model,multi,32,552,7.184,0.138
+LLM / language model,workflow,33,795,7.181,-0.344
+LLM / language model,behavior,31,401,7.169,0.553
+LLM / language model,require,35,1421,7.15,-1.097
+LLM / language model,semantic,33,961,7.149,-0.617
+LLM / language model,quality,35,1455,7.143,-1.131
+LLM / language model,representation,33,997,7.142,-0.67
+LLM / language model,identify,36,1702,7.141,-1.316
+LLM / language model,input,32,789,7.138,-0.377
+LLM / language model,remain,33,1047,7.133,-0.741
+LLM / language model,material,36,1766,7.13,-1.37
+LLM / language model,specifically,31,627,7.124,-0.091
+LLM / language model,specific,36,1865,7.113,-1.448
+LLM / language model,scale,32,1023,7.093,-0.752
+LLM / language model,find,37,2236,7.091,-1.67
+LLM / language model,analysis,43,3726,7.084,-2.19
+LLM / language model,create,38,2557,7.078,-1.826
+LLM / language model,interface,32,1170,7.066,-0.946
+LLM / language model,machine,36,2161,7.064,-1.661
+LLM / language model,understanding,32,1269,7.048,-1.063
+LLM / language model,narrative,32,1276,7.046,-1.071
+LLM / language model,interpret,29,541,7.045,0.025
+LLM / language model,target,29,623,7.028,-0.178
+LLM / language model,bert,28,376,7.027,0.5
+LLM / language model,significantly,28,390,7.025,0.447
+LLM / language model,answer,29,697,7.014,-0.34
+LLM / language model,particularly,29,728,7.008,-0.403
+LLM / language model,neural,27,252,7.001,1.024
+LLM / language model,focus,34,2043,7.001,-1.662
+LLM / language model,tuning,27,253,7.0,1.019
+LLM / language model,investigate,28,509,7.0,0.063
+LLM / language model,cultural,35,2362,6.991,-1.83
+LLM / language model,writing,31,1344,6.988,-1.191
+LLM / language model,serve,28,657,6.971,-0.306
+LLM / language model,proprietary,26,161,6.965,1.616
+LLM / language model,comparison,28,707,6.961,-0.411
+LLM / language model,significant,28,732,6.956,-0.462
+LLM / language model,prompting,26,220,6.953,1.166
+LLM / language model,alignment,27,535,6.943,-0.062
+LLM / language model,traditional,28,844,6.934,-0.667
+LLM / language model,advance,26,369,6.922,0.42
+LLM / language model,refinement,25,153,6.91,1.633
+LLM / language model,ner,25,179,6.905,1.407
+LLM / language model,strong,26,455,6.904,0.117
+LLM / language model,augment,25,203,6.9,1.225
+LLM / language model,drive,27,758,6.899,-0.564
+LLM / language model,learn,28,1034,6.898,-0.96
+LLM / language model,follow,30,1680,6.882,-1.561
+LLM / language model,exist,28,1146,6.878,-1.108
+LLM / language model,help,29,1427,6.877,-1.374
+LLM / language model,enthusiast,24,53,6.873,3.104
+LLM / language model,good,27,910,6.869,-0.828
+LLM / language model,keyword,26,652,6.865,-0.402
+LLM / language model,content,33,2623,6.864,-2.066
+LLM / language model,build,28,1274,6.854,-1.261
+LLM / language model,write,29,1582,6.85,-1.523
+LLM / language model,claude,25,449,6.849,0.08
+LLM / language model,level,30,1934,6.838,-1.764
+LLM / language model,exhibit,24,263,6.828,0.793
+LLM / language model,multilingual,24,273,6.826,0.739
+LLM / language model,encoding,24,279,6.825,0.708
+LLM / language model,complex,26,894,6.818,-0.857
+LLM / language model,retrieval,24,353,6.81,0.368
+LLM / language model,combine,25,685,6.802,-0.529
+LLM / language model,corpus,29,1889,6.797,-1.779
+LLM / language model,consider,28,1601,6.796,-1.591
+LLM / language model,struggle,23,188,6.783,1.216
+LLM / language model,data,31,2591,6.779,-2.138
+LLM / language model,recently,23,207,6.779,1.077
+LLM / language model,select,25,823,6.775,-0.794
+LLM / language model,reveal,24,600,6.76,-0.397
+LLM / language model,allow,29,2142,6.755,-1.96
+LLM / language model,assessment,23,356,6.748,0.295
+LLM / language model,offer,26,1296,6.743,-1.393
+LLM / language model,graimes,22,78,6.742,2.421
+LLM / language model,represent,25,1000,6.741,-1.075
+LLM / language model,svg,22,87,6.74,2.263
+LLM / language model,domain,25,1010,6.739,-1.09
+LLM / language model,technology,31,2931,6.727,-2.316
+LLM / language model,simulate,22,179,6.72,1.222
+LLM / language model,evidence,23,496,6.719,-0.184
+LLM / language model,develop,27,1763,6.715,-1.782
+LLM / language model,way,30,2702,6.715,-2.246
+LLM / language model,multiple,24,858,6.709,-0.913
+LLM / language model,align,23,560,6.706,-0.359
+LLM / language model,story,24,935,6.695,-1.037
+LLM / language model,small,23,678,6.683,-0.635
+LLM / language model,api,22,387,6.677,0.11
+LLM / language model,interaction,24,1031,6.677,-1.178
+LLM / language model,extract,23,718,6.675,-0.718
+LLM / language model,gpt,22,398,6.675,0.07
+LLM / language model,openai,22,418,6.671,-0.001
+LLM / language model,feature,25,1427,6.663,-1.588
+LLM / language model,adapt,22,473,6.66,-0.18
+LLM / language model,directly,22,522,6.65,-0.322
+LLM / language model,examine,23,860,6.648,-0.978
+LLM / language model,query,22,688,6.617,-0.72
+LLM / language model,condition,22,692,6.616,-0.728
+LLM / language model,advanced,21,372,6.613,0.1
+LLM / language model,stage,22,736,6.607,-0.817
+LLM / language model,tabular,20,104,6.599,1.868
+LLM / language model,closed,20,105,6.599,1.854
+LLM / language model,original,23,1126,6.597,-1.367
+LLM / language model,function,22,808,6.594,-0.952
+LLM / language model,deploy,20,142,6.591,1.419
+LLM / language model,time,28,2864,6.59,-2.43
+LLM / language model,reliable,20,222,6.574,0.774
+LLM / language model,network,23,1308,6.564,-1.583
+LLM / language model,diffusion,21,638,6.56,-0.678
+LLM / language model,post,21,655,6.556,-0.716
+LLM / language model,access,25,2053,6.555,-2.113
+LLM / language model,pattern,22,1025,6.552,-1.295
+LLM / language model,introduce,22,1041,6.549,-1.318
+LLM / language model,humanity,27,2831,6.543,-2.465
+LLM / language model,ask,21,732,6.541,-0.877
+LLM / language model,edit,22,1087,6.541,-1.38
+LLM / language model,address,22,1115,6.535,-1.417
+LLM / language model,frontier,19,56,6.535,2.687
+LLM / language model,transcription,21,767,6.534,-0.944
+LLM / language model,hallucination,19,112,6.523,1.687
+LLM / language model,word,25,2262,6.521,-2.253
+LLM / language model,rag,19,122,6.521,1.564
+LLM / language model,involve,21,892,6.51,-1.162
+LLM / language model,lead,21,965,6.496,-1.275
+LLM / language model,indicate,20,651,6.487,-0.778
+LLM / language model,generally,19,282,6.487,0.355
+LLM / language model,nlp,19,336,6.476,0.102
+LLM / language model,encode,19,335,6.476,0.107
+LLM / language model,report,20,738,6.47,-0.959
+LLM / language model,affect,19,390,6.465,-0.113
+LLM / language model,faithfulness,18,49,6.459,2.802
+LLM / language model,standard,20,810,6.456,-1.093
+LLM / language model,materiality,18,119,6.444,1.522
+LLM / language model,ground,19,524,6.438,-0.539
+LLM / language model,metric,20,952,6.428,-1.326
+LLM / language model,intelligence,23,2128,6.423,-2.285
+LLM / language model,family,18,287,6.408,0.252
+LLM / language model,technique,19,689,6.405,-0.934
+LLM / language model,constraint,18,345,6.396,-0.014
+LLM / language model,effectively,18,378,6.39,-0.146
+LLM / language model,error,19,771,6.389,-1.096
+LLM / language model,structured,18,402,6.385,-0.234
+LLM / language model,incorporate,18,420,6.381,-0.298
+LLM / language model,structure,21,1597,6.381,-2.002
+LLM / language model,accuracy,19,846,6.375,-1.23
+LLM / language model,early,20,1237,6.375,-1.704
+LLM / language model,recognize,18,453,6.374,-0.407
+LLM / language model,baseline,18,498,6.365,-0.543
+LLM / language model,layer,18,546,6.356,-0.676
+LLM / language model,belief,17,164,6.352,0.977
+LLM / language model,guide,18,573,6.35,-0.746
+LLM / language model,finding,18,611,6.343,-0.838
+LLM / language model,template,17,212,6.342,0.606
+LLM / language model,critic,17,209,6.342,0.627
+LLM / language model,handle,17,221,6.34,0.546
+LLM / language model,set,21,1848,6.338,-2.213
+LLM / language model,linguistic,18,661,6.333,-0.952
+LLM / language model,computational,20,1562,6.317,-2.04
+LLM / language model,fact,18,759,6.313,-1.151
+LLM / language model,achieve,18,788,6.308,-1.205
+LLM / language model,temporal,17,376,6.308,-0.22
+LLM / language model,entity,18,793,6.307,-1.214
+LLM / language model,ancient,17,431,6.296,-0.417
+LLM / language model,lmms,16,25,6.294,3.603
+LLM / language model,mode,17,456,6.291,-0.499
+LLM / language model,key,18,881,6.29,-1.366
+LLM / language model,section,19,1305,6.289,-1.855
+LLM / language model,benefit,17,479,6.287,-0.57
+LLM / language model,setting,17,484,6.286,-0.585
+LLM / language model,overall,17,542,6.274,-0.748
+LLM / language model,rely,17,564,6.269,-0.805
+LLM / language model,classification,17,583,6.266,-0.853
+LLM / language model,non,18,1013,6.265,-1.568
+LLM / language model,instruct,16,170,6.263,0.837
+LLM / language model,chat,16,168,6.263,0.854
+LLM / language model,effect,17,606,6.261,-0.909
+LLM / language model,low,17,615,6.259,-0.93
+LLM / language model,systematically,16,191,6.259,0.669
+LLM / language model,judgment,16,256,6.245,0.247
+LLM / language model,google,18,1119,6.245,-1.711
+LLM / language model,increase,17,712,6.24,-1.142
+LLM / language model,score,18,1164,6.237,-1.768
+LLM / language model,prove,16,295,6.237,0.042
+LLM / language model,service,17,781,6.227,-1.275
+LLM / language model,capacity,16,366,6.222,-0.269
+LLM / language model,propose,18,1270,6.217,-1.894
+LLM / language model,effective,16,394,6.216,-0.375
+LLM / language model,grow,16,396,6.216,-0.383
+LLM / language model,digital,35,8834,6.21,-3.733
+LLM / language model,creative,17,886,6.207,-1.457
+LLM / language model,impact,17,892,6.205,-1.467
+LLM / language model,summary,16,459,6.203,-0.596
+LLM / language model,able,17,926,6.199,-1.521
+LLM / language model,argue,17,930,6.198,-1.527
+LLM / language model,reference,17,970,6.191,-1.588
+LLM / language model,integration,16,519,6.191,-0.773
+LLM / language model,social,19,1944,6.178,-2.43
+LLM / language model,researcher,24,4212,6.177,-3.209
+LLM / language model,possess,15,134,6.177,1.088
+LLM / language model,interpretation,17,1075,6.171,-1.736
+LLM / language model,emerge,16,624,6.17,-1.039
+LLM / language model,powerful,15,210,6.161,0.439
+LLM / language model,future,18,1593,6.16,-2.221
+LLM / language model,tei,15,244,6.154,0.223
+LLM / language model,perspective,17,1178,6.152,-1.868
+LLM / language model,desire,15,266,6.15,0.098
+LLM / language model,artificial,19,2127,6.147,-2.56
+LLM / language model,systematic,15,283,6.146,0.009
+LLM / language model,synthesis,15,297,6.143,-0.061
+LLM / language model,release,15,303,6.142,-0.09
+LLM / language model,xml,15,320,6.138,-0.168
+LLM / language model,available,17,1260,6.137,-1.965
+LLM / language model,page,17,1265,6.136,-1.971
+LLM / language model,form,19,2202,6.135,-2.61
+LLM / language model,clip,15,346,6.133,-0.281
+LLM / language model,currently,15,350,6.132,-0.298
+LLM / language model,single,16,818,6.132,-1.429
+LLM / language model,analyze,16,882,6.12,-1.538
+LLM / language model,mean,17,1353,6.12,-2.068
+LLM / language model,gemini,15,444,6.113,-0.641
+LLM / language model,value,17,1395,6.112,-2.112
+LLM / language model,give,17,1414,6.109,-2.131
+LLM / language model,discuss,16,952,6.107,-1.648
+LLM / language model,generalpurpose,14,12,6.104,4.469
+LLM / language model,today,15,503,6.101,-0.821
+LLM / language model,parrot,14,32,6.1,3.054
+LLM / language model,concept,17,1478,6.098,-2.195
+LLM / language model,automate,15,529,6.096,-0.893
+LLM / language model,advent,14,67,6.092,1.988
+LLM / language model,capture,15,560,6.09,-0.976
+LLM / language model,lack,15,557,6.09,-0.968
+LLM / language model,evaluator,14,91,6.087,1.546
+LLM / language model,mllms,14,115,6.082,1.209
+LLM / language model,creativity,15,616,6.079,-1.113
+LLM / language model,advancement,14,201,6.064,0.403
+LLM / language model,second,15,710,6.06,-1.318
+LLM / language model,efficient,14,217,6.06,0.293
+LLM / language model,optimize,14,221,6.06,0.266
+LLM / language model,correction,14,222,6.059,0.26
+LLM / language model,need,19,2739,6.05,-2.925
+LLM / language model,tend,14,292,6.045,-0.136
+LLM / language model,interpretive,14,301,6.043,-0.18
+LLM / language model,contextual,14,308,6.041,-0.213
+LLM / language model,description,15,831,6.037,-1.545
+LLM / language model,structural,14,353,6.032,-0.409
+LLM / language model,project,20,3362,6.031,-3.146
+LLM / language model,architecture,14,426,6.017,-0.681
+LLM / language model,contrast,14,433,6.016,-0.704
+LLM / language model,transform,14,473,6.008,-0.832
+LLM / language model,implement,14,496,6.003,-0.9
+LLM / language model,translate,14,504,6.001,-0.923
+LLM / language model,extend,14,508,6.001,-0.935
+LLM / language model,editor,14,511,6.0,-0.943
+LLM / language model,evaluators,13,11,5.997,4.488
+LLM / language model,autoregressive,13,29,5.994,3.089
+LLM / language model,additional,14,547,5.993,-1.041
+LLM / language model,adopt,14,559,5.99,-1.073
+LLM / language model,backbone,13,69,5.985,1.839
+LLM / language model,individual,15,1109,5.984,-1.961
+LLM / language model,reliably,13,73,5.984,1.757
+LLM / language model,decision,14,589,5.984,-1.148
+LLM / language model,finetune,13,83,5.982,1.572
+LLM / language model,stability,13,86,5.981,1.521
+LLM / language model,textual,15,1132,5.98,-1.991
+LLM / language model,modal,13,97,5.979,1.347
+LLM / language model,sophisticated,13,134,5.971,0.881
+LLM / language model,call,14,664,5.97,-1.321
+LLM / language model,attitude,13,140,5.97,0.818
+LLM / language model,especially,14,712,5.96,-1.422
+LLM / language model,discussion,14,761,5.951,-1.518
+LLM / language model,pose,13,253,5.946,-0.036
+LLM / language model,critical,15,1319,5.945,-2.212
+LLM / language model,module,13,271,5.942,-0.135
+LLM / language model,review,14,810,5.941,-1.608
+LLM / language model,close,14,824,5.938,-1.632
+LLM / language model,predict,13,293,5.938,-0.248
+LLM / language model,reflect,14,886,5.926,-1.737
+LLM / language model,chatbot,13,364,5.923,-0.561
+LLM / language model,highly,13,385,5.919,-0.642
+LLM / language model,likely,13,420,5.912,-0.767
+LLM / language model,embed,13,426,5.91,-0.788
+LLM / language model,big,13,434,5.909,-0.814
+LLM / language model,annotation,14,982,5.908,-1.885
+LLM / language model,initial,13,449,5.906,-0.863
+LLM / language model,define,14,1000,5.905,-1.912
+LLM / language model,platform,15,1558,5.903,-2.452
+LLM / language model,gap,13,506,5.894,-1.036
+LLM / language model,choice,13,521,5.891,-1.078
+LLM / language model,deep,13,555,5.884,-1.169
+LLM / language model,lmm,12,16,5.881,3.832
+LLM / language model,stochastic,12,81,5.867,1.492
+LLM / language model,learner,12,97,5.863,1.232
+LLM / language model,utility,12,99,5.863,1.202
+LLM / language model,user,25,7492,5.855,-3.981
+LLM / language model,rapid,12,155,5.851,0.556
+LLM / language model,insight,13,725,5.851,-1.555
+LLM / language model,reliability,12,162,5.85,0.492
+LLM / language model,emergence,12,182,5.845,0.324
+LLM / language model,production,13,764,5.843,-1.63
+LLM / language model,natural,13,763,5.843,-1.628
+LLM / language model,history,15,1903,5.843,-2.74
+LLM / language model,adaptation,12,199,5.842,0.195
+LLM / language model,internal,12,197,5.842,0.21
+LLM / language model,reading,14,1347,5.841,-2.341
+LLM / language model,english,13,781,5.84,-1.662
+LLM / language model,rise,12,218,5.838,0.064
+LLM / language model,concern,13,798,5.836,-1.693
+LLM / language model,resource,14,1375,5.836,-2.371
+LLM / language model,widely,12,255,5.83,-0.163
+LLM / language model,particular,13,847,5.827,-1.779
+LLM / language model,candidate,12,271,5.827,-0.25
+LLM / language model,weight,12,296,5.822,-0.378
+LLM / language model,come,13,903,5.816,-1.871
+LLM / language model,science,14,1492,5.815,-2.489
+LLM / language model,survey,12,330,5.815,-0.535
+LLM / language model,alternative,12,332,5.814,-0.543
+LLM / language model,treat,12,331,5.814,-0.539
+LLM / language model,prior,12,352,5.81,-0.628
+LLM / language model,detection,12,358,5.809,-0.652
+LLM / language model,modeling,12,390,5.802,-0.776
+LLM / language model,end,13,979,5.802,-1.988
+LLM / language model,detect,12,395,5.801,-0.794
+LLM / language model,mechanism,12,401,5.8,-0.816
+LLM / language model,problem,13,1009,5.796,-2.032
+LLM / language model,foundation,12,428,5.794,-0.91
+LLM / language model,comprehensive,12,450,5.79,-0.982
+LLM / language model,search,14,1649,5.787,-2.633
+LLM / language model,parameter,12,471,5.786,-1.048
+LLM / language model,run,12,468,5.786,-1.039
+LLM / language model,construct,12,473,5.785,-1.054
+LLM / language model,facilitate,12,500,5.78,-1.134
+LLM / language model,role,13,1114,5.777,-2.174
+LLM / language model,like,12,528,5.774,-1.213
+LLM / language model,limit,12,542,5.771,-1.25
+LLM / language model,character,13,1163,5.767,-2.236
+LLM / language model,contemporary,12,591,5.762,-1.375
+LLM / language model,great,12,595,5.761,-1.385
+LLM / language model,recognition,12,599,5.76,-1.395
+LLM / language model,refer,12,609,5.758,-1.419
+LLM / language model,distribution,12,622,5.755,-1.449
+LLM / language model,name,12,628,5.754,-1.463
+LLM / language model,common,12,636,5.753,-1.481
+LLM / language model,genre,12,657,5.749,-1.528
+LLM / language model,preprint,11,62,5.745,1.752
+LLM / language model,substantially,11,75,5.743,1.477
+LLM / language model,measure,12,685,5.743,-1.588
+LLM / language model,difference,12,699,5.74,-1.617
+LLM / language model,pretraine,11,85,5.74,1.297
+LLM / language model,see,12,713,5.738,-1.646
+LLM / language model,conversational,11,145,5.728,0.526
+LLM / language model,mllm,11,151,5.726,0.468
+LLM / language model,simulation,11,155,5.726,0.43
+LLM / language model,highlight,12,770,5.726,-1.757
+LLM / language model,fundamentally,11,166,5.723,0.331
+LLM / language model,promise,11,179,5.72,0.222
+LLM / language model,strategy,12,811,5.718,-1.832
+LLM / language model,recall,11,209,5.714,-0.001
+LLM / language model,rank,11,218,5.712,-0.062
+LLM / language model,confirm,11,219,5.712,-0.069
+LLM / language model,progress,11,240,5.708,-0.201
+LLM / language model,popular,11,249,5.706,-0.254
+LLM / language model,analytical,11,251,5.705,-0.265
+LLM / language model,engine,11,257,5.704,-0.299
+LLM / language model,validation,11,272,5.701,-0.381
+LLM / language model,external,11,290,5.697,-0.474
+LLM / language model,paper,13,1563,5.696,-2.663
+LLM / language model,graph,11,332,5.689,-0.669
+LLM / language model,preference,11,344,5.686,-0.72
+LLM / language model,meaningful,11,349,5.685,-0.741
+LLM / language model,easily,11,351,5.685,-0.749
+LLM / language model,operate,11,354,5.684,-0.761
+LLM / language model,debate,11,359,5.683,-0.782
+LLM / language model,important,12,995,5.683,-2.127
+LLM / language model,layout,11,378,5.679,-0.856
+LLM / language model,local,11,390,5.677,-0.901
+LLM / language model,view,12,1040,5.675,-2.191
+LLM / language model,selection,11,403,5.674,-0.948
+LLM / language model,rule,11,413,5.672,-0.984
+LLM / language model,necessary,11,452,5.664,-1.114
+LLM / language model,core,11,450,5.664,-1.108
+LLM / language model,self,11,471,5.66,-1.173
+LLM / language model,literature,13,1813,5.652,-2.877
+LLM / language model,short,11,567,5.641,-1.441
+LLM / language model,space,12,1223,5.641,-2.424
+LLM / language model,accord,11,646,5.625,-1.629
+LLM / language model,acoustic,10,31,5.615,2.614
+LLM / language model,mate,10,42,5.612,2.176
+LLM / language model,peirce,10,52,5.61,1.868
+LLM / language model,similar,11,739,5.607,-1.823
+LLM / language model,feasibility,10,64,5.607,1.569
+LLM / language model,point,12,1424,5.605,-2.644
+LLM / language model,control,11,754,5.604,-1.852
+LLM / language model,generalize,10,84,5.603,1.176
+LLM / language model,infer,10,93,5.601,1.03
+LLM / language model,theory,11,800,5.595,-1.938
+LLM / language model,probe,10,124,5.595,0.614
+LLM / language model,promising,10,126,5.594,0.591
+LLM / language model,llama,10,154,5.588,0.302
+LLM / language model,contain,11,859,5.584,-2.04
+LLM / language model,figure,12,1574,5.578,-2.789
+LLM / language model,library,13,2274,5.576,-3.204
+LLM / language model,commercial,10,212,5.576,-0.159
+LLM / language model,signal,10,218,5.575,-0.2
+LLM / language model,inference,10,220,5.574,-0.213
+LLM / language model,step,11,932,5.57,-2.158
+LLM / language model,dialogue,10,243,5.57,-0.356
+LLM / language model,effectiveness,10,252,5.568,-0.409
+LLM / language model,classify,10,254,5.567,-0.42
+LLM / language model,assistant,10,261,5.566,-0.459
+LLM / language model,usage,10,265,5.565,-0.481
+LLM / language model,reconstruction,10,265,5.565,-0.481
+LLM / language model,automatically,10,274,5.563,-0.529
+LLM / language model,configuration,10,282,5.561,-0.571
+LLM / language model,company,10,287,5.56,-0.596
+LLM / language model,extent,10,294,5.559,-0.631
+LLM / language model,black,10,303,5.557,-0.674
+LLM / language model,possible,11,997,5.557,-2.255
+LLM / language model,scenario,10,307,5.556,-0.693
+LLM / language model,web,11,1003,5.556,-2.264
+LLM / language model,distinguish,10,311,5.555,-0.712
+LLM / language model,related,10,312,5.555,-0.717
+LLM / language model,sequence,10,325,5.553,-0.776
+LLM / language model,paradigm,10,335,5.55,-0.819
+LLM / language model,crucial,10,340,5.549,-0.841
+LLM / language model,share,11,1053,5.547,-2.334
+LLM / language model,automatic,10,371,5.543,-0.967
+LLM / language model,depend,10,389,5.539,-1.035
+LLM / language model,unique,10,397,5.538,-1.064
+LLM / language model,illustrate,10,404,5.536,-1.09
+LLM / language model,infrastructure,11,1138,5.531,-2.446
+LLM / language model,identity,10,428,5.531,-1.173
+LLM / language model,criticism,10,432,5.531,-1.186
+LLM / language model,explain,10,462,5.524,-1.283
+LLM / language model,maintain,10,477,5.521,-1.329
+LLM / language model,describe,11,1201,5.519,-2.524
+LLM / language model,reason,10,487,5.519,-1.359
+LLM / language model,author,15,4105,5.513,-3.85
+LLM / language model,begin,10,548,5.507,-1.529
+LLM / language model,pair,10,547,5.507,-1.527
+LLM / language model,account,10,548,5.507,-1.529
+LLM / language model,influence,10,560,5.505,-1.561
+LLM / language model,know,11,1287,5.504,-2.624
+LLM / language model,type,11,1289,5.503,-2.626
+LLM / language model,choose,10,586,5.5,-1.626
+LLM / language model,position,10,584,5.5,-1.621
+LLM / language model,diverse,10,633,5.49,-1.737
+LLM / language model,number,11,1380,5.487,-2.724
+LLM / language model,nature,10,655,5.486,-1.787
+LLM / language model,shape,10,669,5.483,-1.817
+LLM / language model,turn,10,758,5.466,-1.997
+LLM / language model,lms,9,23,5.464,2.893
+LLM / language model,benchmarke,9,28,5.463,2.609
+LLM / language model,student,11,1527,5.461,-2.87
+LLM / language model,materialize,9,45,5.46,1.925
+LLM / language model,relevant,10,791,5.459,-2.059
+LLM / language model,category,10,792,5.459,-2.061
+LLM / language model,specialised,9,50,5.458,1.773
+LLM / language model,sample,10,815,5.455,-2.102
+LLM / language model,change,11,1582,5.451,-2.921
+LLM / language model,couple,9,90,5.45,0.925
+LLM / language model,factual,9,93,5.449,0.878
+LLM / language model,deployment,9,112,5.445,0.609
+LLM / language model,world,11,1629,5.443,-2.964
+LLM / language model,field,11,1629,5.443,-2.964
+LLM / language model,format,10,883,5.442,-2.218
+LLM / language model,notebook,9,136,5.44,0.329
+LLM / language model,relate,10,894,5.439,-2.235
+LLM / language model,downstream,9,151,5.437,0.178
+LLM / language model,tendency,9,149,5.437,0.198
+LLM / language model,heritage,10,919,5.435,-2.275
+LLM / language model,entirely,9,169,5.433,0.016
+LLM / language model,consistently,9,168,5.433,0.024
+LLM / language model,version,10,937,5.431,-2.303
+LLM / language model,extension,9,187,5.429,-0.13
+LLM / language model,extensive,9,233,5.42,-0.448
+LLM / language model,yield,9,238,5.419,-0.478
+LLM / language model,robust,9,247,5.417,-0.532
+LLM / language model,actual,9,260,5.414,-0.606
+LLM / language model,appropriate,9,263,5.413,-0.622
+LLM / language model,classical,9,268,5.412,-0.649
+LLM / language model,fail,9,278,5.41,-0.702
+LLM / language model,statistical,9,295,5.407,-0.788
+LLM / language model,order,10,1066,5.407,-2.489
+LLM / language model,primarily,9,292,5.407,-0.773
+LLM / language model,chinese,9,292,5.407,-0.773
+LLM / language model,box,9,316,5.402,-0.887
+LLM / language model,operation,9,316,5.402,-0.887
+LLM / language model,late,9,323,5.401,-0.919
+LLM / language model,replace,9,337,5.398,-0.98
+LLM / language model,script,9,339,5.398,-0.988
+LLM / language model,appendix,9,351,5.395,-1.039
+LLM / language model,interact,9,351,5.395,-1.039
+LLM / language model,simply,9,355,5.394,-1.055
+LLM / language model,characteristic,9,358,5.394,-1.067
+LLM / language model,basis,9,364,5.392,-1.091
+LLM / language model,practice,11,1966,5.385,-3.235
+LLM / language model,emphasize,9,408,5.383,-1.256
+LLM / language model,gain,9,420,5.381,-1.298
+LLM / language model,reduce,9,435,5.378,-1.348
+LLM / language model,size,9,440,5.377,-1.365
+LLM / language model,average,9,448,5.375,-1.391
+LLM / language model,annotate,9,448,5.375,-1.391
+LLM / language model,writer,9,478,5.369,-1.484
+LLM / language model,associate,9,478,5.369,-1.484
+LLM / language model,component,9,485,5.368,-1.505
+LLM / language model,risk,9,498,5.365,-1.543
+LLM / language model,latin,9,545,5.356,-1.673
+LLM / language model,possibility,9,590,5.347,-1.788
+LLM / language model,continue,9,613,5.342,-1.843
+LLM / language model,label,9,623,5.34,-1.866
+LLM / language model,methodology,9,662,5.332,-1.954
+LLM / language model,list,9,690,5.327,-2.014
+LLM / language model,establish,9,715,5.322,-2.065
+LLM / language model,collaboration,9,799,5.306,-2.225
+LLM / language model,ceger,8,42,5.29,1.854
+LLM / language model,algorithm,9,915,5.283,-2.421
+LLM / language model,compression,8,84,5.281,0.854
+LLM / language model,augmentation,8,96,5.279,0.662
+LLM / language model,execute,8,106,5.277,0.519
+LLM / language model,autonomous,8,104,5.277,0.546
+LLM / language model,notable,8,102,5.277,0.574
+LLM / language model,rapidly,8,109,5.276,0.479
+LLM / language model,narration,8,112,5.275,0.439
+LLM / language model,confidence,8,137,5.27,0.149
+LLM / language model,synthetic,8,141,5.269,0.107
+LLM / language model,failure,8,151,5.267,0.008
+LLM / language model,generator,8,160,5.265,-0.075
+LLM / language model,challenging,8,170,5.263,-0.163
+LLM / language model,storytelling,8,169,5.263,-0.154
+LLM / language model,take,9,1044,5.259,-2.611
+LLM / language model,identification,8,195,5.258,-0.361
+LLM / language model,enrich,8,246,5.247,-0.696
+LLM / language model,typically,8,246,5.247,-0.696
+LLM / language model,bridge,8,245,5.247,-0.69
+LLM / language model,explicit,8,276,5.241,-0.862
+LLM / language model,vector,8,279,5.24,-0.877
+LLM / language model,style,9,1150,5.239,-2.751
+LLM / language model,manually,8,297,5.236,-0.968
+LLM / language model,consist,8,305,5.235,-1.006
+LLM / language model,variant,8,320,5.232,-1.075
+LLM / language model,evolution,8,322,5.231,-1.084
+LLM / language model,difficult,8,356,5.224,-1.229
+LLM / language model,matter,8,361,5.223,-1.249
+LLM / language model,phase,8,379,5.219,-1.319
+LLM / language model,expect,8,400,5.215,-1.397
+LLM / language model,hold,8,413,5.213,-1.443
+LLM / language model,book,10,2190,5.211,-3.528
+LLM / language model,body,8,430,5.209,-1.501
+LLM / language model,simple,8,451,5.205,-1.57
+LLM / language model,discourse,8,459,5.203,-1.596
+LLM / language model,long,9,1348,5.203,-2.98
+LLM / language model,primary,8,482,5.198,-1.666
+LLM / language model,claim,8,491,5.197,-1.693
+LLM / language model,qualitative,8,501,5.195,-1.722
+LLM / language model,match,8,533,5.188,-1.811
+LLM / language model,computer,9,1436,5.187,-3.071
+LLM / language model,dimension,8,578,5.179,-1.928
+LLM / language model,contribution,8,595,5.176,-1.97
+LLM / language model,play,8,604,5.174,-1.992
+LLM / language model,sentence,8,632,5.168,-2.057
+LLM / language model,period,8,669,5.161,-2.139
+LLM / language model,relation,8,676,5.16,-2.154
+LLM / language model,range,8,679,5.159,-2.161
+LLM / language model,goal,8,728,5.15,-2.261
+LLM / language model,hand,8,745,5.146,-2.294
+LLM / language model,bring,8,745,5.146,-2.294
+LLM / language model,aspect,8,758,5.144,-2.319
+LLM / language model,instance,8,789,5.138,-2.377
+LLM / language model,think,8,929,5.111,-2.613
+LLM / language model,scholarly,8,939,5.109,-2.628
+LLM / language model,meaning,8,951,5.107,-2.647
+LLM / language model,look,8,955,5.106,-2.653
+LLM / language model,ensure,8,963,5.104,-2.665
+LLM / language model,academic,8,992,5.099,-2.707
+LLM / language model,scholar,8,3656,4.668,-4.589
+named system,model,964,9776,10.843,0.747
+named system,claude,238,449,9.952,3.173
+named system,openai,202,418,9.721,3.04
+named system,gemini,172,444,9.484,2.721
+named system,mini,162,138,9.455,4.32
+named system,base,233,3883,9.399,0.03
+named system,prompt,192,2267,9.342,0.527
+named system,generate,200,3215,9.267,0.082
+named system,pro,123,252,9.036,3.054
+named system,instruct,112,170,8.916,3.487
+named system,llm,137,2436,8.83,-0.063
+named system,flash,104,162,8.811,3.45
+named system,fine,104,729,8.707,1.28
+named system,use,154,4821,8.687,-0.879
+named system,chatgpt,101,652,8.678,1.399
+named system,tune,96,444,8.643,1.88
+named system,image,138,4112,8.614,-0.808
+named system,llama,85,154,8.521,3.232
+named system,version,92,937,8.494,0.741
+named system,google,92,1119,8.463,0.485
+named system,language,139,5550,8.455,-1.23
+named system,gpt,83,398,8.441,1.827
+named system,deepseek,80,146,8.435,3.221
+named system,large,104,2591,8.41,-0.55
+named system,performance,91,1361,8.407,0.186
+named system,sonnet,78,160,8.396,3.053
+named system,achieve,84,788,8.388,0.859
+named system,high,87,1717,8.284,-0.214
+named system,vision,72,667,8.187,0.877
+named system,anthropic,67,105,8.187,3.441
+named system,qwen,67,137,8.181,3.057
+named system,result,93,3159,8.169,-0.997
+named system,train,76,1339,8.15,-0.05
+named system,score,74,1164,8.141,0.114
+named system,perform,72,966,8.135,0.343
+named system,text,141,9175,8.121,-1.935
+named system,outperform,62,231,8.052,2.191
+named system,bert,60,376,7.977,1.441
+named system,clip,58,346,7.934,1.512
+named system,pre,60,631,7.931,0.694
+named system,show,64,1372,7.897,-0.333
+named system,example,72,2600,7.878,-1.085
+named system,training,66,1768,7.878,-0.654
+named system,copilot,52,128,7.817,2.789
+named system,include,69,2807,7.788,-1.257
+named system,source,66,2393,7.783,-1.091
+named system,proprietary,51,161,7.783,2.431
+named system,generation,59,1506,7.758,-0.585
+named system,chat,50,168,7.753,2.341
+named system,open,61,1941,7.737,-0.903
+named system,tool,72,3687,7.73,-1.589
+named system,demonstrate,55,1096,7.724,-0.228
+named system,turbo,48,33,7.72,4.63
+named system,api,49,387,7.683,1.108
+named system,sentence,50,632,7.668,0.429
+named system,well,52,1095,7.644,-0.307
+named system,figure,53,1574,7.592,-0.803
+named system,produce,53,1596,7.589,-0.823
+named system,shot,46,420,7.586,0.898
+named system,compare,48,1199,7.511,-0.554
+named system,generative,49,1463,7.497,-0.811
+named system,mistral,41,78,7.484,3.161
+named system,release,42,303,7.476,1.238
+named system,match,43,533,7.468,0.457
+named system,embedding,44,802,7.453,-0.099
+named system,llms,47,1706,7.398,-1.093
+named system,latin,41,545,7.397,0.356
+named system,team,42,767,7.392,-0.102
+named system,output,45,1410,7.383,-0.881
+named system,test,43,1092,7.37,-0.577
+named system,street,38,205,7.35,1.657
+named system,diffusion,40,638,7.345,0.094
+named system,strong,39,455,7.341,0.545
+named system,code,41,904,7.333,-0.374
+named system,write,44,1582,7.322,-1.079
+named system,follow,44,1680,7.307,-1.166
+named system,transformer,37,262,7.301,1.265
+named system,perplexity,36,95,7.293,2.689
+named system,instruction,38,519,7.292,0.317
+named system,encoder,37,318,7.291,0.986
+named system,provide,50,3183,7.271,-1.903
+named system,table,42,1487,7.271,-1.057
+named system,enviado,35,35,7.264,4.089
+named system,accuracy,38,846,7.234,-0.388
+named system,system,48,3087,7.225,-1.918
+named system,evaluate,40,1339,7.224,-0.976
+named system,experiment,39,1127,7.223,-0.764
+named system,evaluation,42,1792,7.222,-1.326
+named system,roberta,34,64,7.217,3.177
+named system,microsoft,34,267,7.178,1.116
+named system,variant,34,320,7.168,0.855
+named system,capability,35,677,7.145,-0.185
+named system,family,33,287,7.131,0.969
+named system,translation,39,1778,7.117,-1.422
+named system,low,34,615,7.114,-0.088
+named system,english,34,781,7.085,-0.433
+named system,case,40,2273,7.078,-1.739
+named system,llav,31,114,7.074,2.21
+named system,significantly,32,390,7.068,0.482
+named system,architecture,32,426,7.061,0.354
+named system,token,33,830,7.033,-0.564
+named system,series,31,397,7.021,0.41
+named system,book,38,2190,7.017,-1.76
+named system,average,31,448,7.011,0.236
+named system,comparison,32,707,7.01,-0.377
+named system,similar,32,739,7.005,-0.44
+named system,writing,34,1344,6.989,-1.216
+named system,portoldbert,29,56,6.989,3.14
+named system,stable,30,322,6.987,0.665
+named system,ask,31,732,6.96,-0.472
+named system,report,31,738,6.959,-0.484
+named system,method,42,3697,6.951,-2.371
+named system,task,36,2168,6.942,-1.823
+named system,beige,28,82,6.933,2.539
+named system,dataset,37,2504,6.932,-1.992
+named system,small,30,678,6.922,-0.409
+named system,title,30,689,6.921,-0.432
+named system,consistently,28,168,6.917,1.504
+named system,sentiment,28,229,6.905,1.057
+named system,ocr,30,820,6.897,-0.684
+named system,models,28,293,6.893,0.702
+named system,crí,27,27,6.891,4.089
+named system,good,30,910,6.882,-0.834
+named system,midjourney,27,79,6.881,2.54
+named system,contrast,28,433,6.867,0.138
+named system,introduce,30,1041,6.859,-1.028
+named system,baseline,28,498,6.855,-0.064
+named system,find,34,2236,6.849,-1.95
+named system,suggest,29,885,6.837,-0.843
+named system,parte,26,30,6.836,3.883
+named system,improve,29,898,6.835,-0.864
+named system,new,38,3541,6.827,-2.453
+named system,meta,27,387,6.823,0.248
+named system,trained,26,117,6.82,1.919
+named system,dall,26,135,6.816,1.713
+named system,multimodal,27,483,6.806,-0.072
+named system,author,39,4105,6.792,-2.629
+named system,specifically,27,627,6.78,-0.448
+named system,indicate,27,651,6.775,-0.503
+named system,web,28,1003,6.766,-1.074
+named system,access,31,2053,6.744,-1.96
+named system,different,33,2748,6.732,-2.291
+named system,revista,24,39,6.719,3.389
+named system,gemma,24,61,6.715,2.743
+named system,yang,24,88,6.71,2.215
+named system,decoder,24,115,6.704,1.829
+named system,error,26,771,6.7,-0.801
+named system,rate,25,470,6.697,-0.144
+named system,select,26,823,6.69,-0.895
+named system,metric,26,952,6.668,-1.105
+named system,maverick,23,15,6.662,4.706
+named system,strauss,23,30,6.659,3.706
+named system,edit,26,1087,6.645,-1.297
+named system,original,26,1126,6.638,-1.348
+named system,translate,24,504,6.632,-0.303
+named system,overall,24,542,6.625,-0.408
+named system,xlnet,22,11,6.599,5.089
+named system,nano,22,31,6.595,3.594
+named system,preview,22,45,6.592,3.057
+named system,datum,40,6173,6.591,-3.181
+named system,style,25,1150,6.578,-1.435
+named system,document,28,2224,6.571,-2.223
+named system,human,48,9308,6.554,-3.51
+named system,employ,23,661,6.542,-0.756
+named system,response,23,670,6.541,-0.775
+named system,medium,25,1438,6.53,-1.757
+named system,far,22,448,6.517,-0.259
+named system,word,27,2262,6.513,-2.299
+named system,state,23,964,6.489,-1.3
+named system,pipeline,22,613,6.487,-0.711
+named system,multilingual,21,273,6.482,0.389
+named system,similarity,22,738,6.464,-0.979
+named system,input,22,789,6.455,-1.075
+named system,support,24,1685,6.432,-2.045
+named system,time,27,2864,6.426,-2.64
+named system,editing,23,1360,6.423,-1.797
+named system,exhibit,20,263,6.413,0.372
+named system,prediction,20,284,6.409,0.261
+named system,study,30,4242,6.397,-3.055
+named system,utilize,20,417,6.385,-0.293
+named system,bagel,19,35,6.383,3.208
+named system,xai,19,45,6.381,2.845
+named system,apply,22,1256,6.376,-1.746
+named system,available,22,1260,6.375,-1.751
+named system,offer,22,1296,6.369,-1.791
+named system,swedish,19,201,6.351,0.686
+named system,judge,19,285,6.335,0.182
+named system,level,23,1934,6.331,-2.305
+named system,extract,20,718,6.33,-1.077
+named system,ability,20,795,6.317,-1.224
+named system,analysis,27,3726,6.31,-3.019
+named system,geminipro,18,14,6.309,4.452
+named system,lite,18,22,6.307,3.8
+named system,opus,18,31,6.306,3.305
+named system,grok,18,45,6.303,2.767
+named system,finetune,18,83,6.296,1.884
+named system,develop,22,1763,6.294,-2.235
+named system,pair,19,547,6.287,-0.758
+named system,prompting,18,220,6.269,0.478
+named system,student,21,1527,6.264,-2.095
+named system,enhance,19,816,6.239,-1.335
+named system,identify,21,1702,6.236,-2.252
+named system,plus,17,16,6.226,4.177
+named system,yorker,17,17,6.226,4.089
+named system,devlin,17,24,6.224,3.592
+named system,pron,17,41,6.221,2.819
+named system,explore,20,1443,6.207,-2.084
+named system,technical,19,1043,6.2,-1.69
+named system,notably,17,151,6.2,0.938
+named system,exist,19,1146,6.183,-1.825
+named system,present,21,2069,6.179,-2.533
+named system,create,22,2557,6.174,-2.772
+named system,instance,18,789,6.166,-1.365
+named system,information,24,3551,6.163,-3.12
+named system,advanced,17,372,6.159,-0.363
+named system,parameter,17,471,6.14,-0.703
+named system,alibaba,16,22,6.137,3.63
+named system,representation,18,997,6.13,-1.702
+named system,approach,22,3147,6.091,-3.071
+named system,make,18,1257,6.086,-2.037
+named system,predict,16,293,6.086,-0.106
+named system,application,18,1267,6.084,-2.048
+named system,vlm,16,308,6.083,-0.178
+named system,sample,17,815,6.079,-1.494
+named system,foundation,16,428,6.061,-0.652
+named system,lead,17,965,6.053,-1.738
+named system,run,16,468,6.053,-0.781
+named system,enciso,15,13,6.046,4.295
+named system,scale,17,1023,6.043,-1.822
+named system,like,16,528,6.043,-0.955
+named system,obtain,16,523,6.043,-0.942
+named system,touvron,15,29,6.043,3.138
+named system,finetuning,15,48,6.039,2.411
+named system,frankentext,15,54,6.038,2.241
+named system,generator,15,160,6.018,0.674
+named system,increase,16,712,6.01,-1.387
+named system,close,16,824,5.99,-1.597
+named system,object,17,1356,5.987,-2.229
+named system,count,15,335,5.985,-0.392
+named system,leverage,15,387,5.975,-0.6
+named system,able,16,926,5.972,-1.766
+named system,size,15,440,5.965,-0.785
+named system,focus,18,2043,5.961,-2.738
+named system,rombach,14,20,5.945,3.574
+named system,patricio,14,19,5.945,3.648
+named system,kimi,14,24,5.944,3.311
+named system,vanilla,14,72,5.935,1.726
+named system,context,18,2244,5.931,-2.873
+named system,library,18,2274,5.926,-2.892
+named system,agent,15,659,5.926,-1.368
+named system,project,20,3362,5.925,-3.304
+named system,official,14,160,5.918,0.574
+named system,process,20,3458,5.912,-3.345
+named system,type,16,1289,5.911,-2.243
+named system,set,17,1848,5.908,-2.675
+named system,category,15,792,5.902,-1.633
+named system,fail,14,278,5.896,-0.223
+named system,note,15,872,5.888,-1.772
+named system,manuscript,15,887,5.886,-1.797
+named system,quality,16,1455,5.883,-2.418
+named system,return,14,358,5.881,-0.587
+named system,chatbot,14,364,5.88,-0.611
+named system,thinking,14,393,5.875,-0.722
+named system,embed,14,426,5.869,-0.838
+named system,learning,16,1552,5.868,-2.511
+named system,implement,14,496,5.856,-1.058
+named system,xlm,13,13,5.84,4.089
+named system,lévi,13,18,5.839,3.62
+named system,great,14,595,5.838,-1.32
+named system,reveal,14,600,5.837,-1.332
+named system,bidirectional,13,42,5.834,2.397
+named system,question,17,2355,5.832,-3.025
+named system,jean,13,63,5.83,1.812
+named system,issue,15,1242,5.825,-2.283
+named system,favor,13,87,5.825,1.347
+named system,bart,13,91,5.824,1.282
+named system,particularly,14,728,5.814,-1.611
+named system,significant,14,732,5.813,-1.619
+named system,verse,13,171,5.809,0.372
+named system,mean,15,1353,5.807,-2.406
+named system,entity,14,793,5.803,-1.735
+named system,value,15,1395,5.8,-2.45
+named system,bias,14,813,5.799,-1.771
+named system,give,15,1414,5.797,-2.47
+named system,parallel,13,274,5.79,-0.309
+named system,late,13,323,5.781,-0.546
+named system,assist,13,448,5.758,-1.018
+named system,mode,13,456,5.756,-1.043
+named system,gap,13,506,5.747,-1.194
+named system,editor,13,511,5.746,-1.208
+named system,urbo,12,5,5.726,5.352
+named system,work,22,6199,5.725,-4.049
+named system,shannon,12,25,5.722,3.03
+named system,collection,15,1902,5.72,-2.897
+named system,alephbert,12,41,5.719,2.316
+named system,sdxl,12,52,5.717,1.974
+named system,leaf,12,51,5.717,2.002
+named system,power,13,713,5.71,-1.688
+named system,pretrained,12,103,5.707,0.988
+named system,slightly,12,102,5.707,1.002
+named system,hand,13,745,5.704,-1.752
+named system,hebrew,12,118,5.704,0.791
+named system,processing,13,809,5.693,-1.871
+named system,conduct,13,806,5.693,-1.865
+named system,respond,12,202,5.688,0.016
+named system,recall,12,209,5.687,-0.033
+named system,intelligence,15,2128,5.685,-3.059
+named system,similarly,12,223,5.684,-0.127
+named system,request,12,221,5.684,-0.114
+named system,modify,12,222,5.684,-0.12
+named system,tuning,12,253,5.678,-0.309
+named system,capable,12,260,5.677,-0.348
+named system,essay,12,275,5.674,-0.429
+named system,improvement,12,308,5.668,-0.593
+named system,detailed,12,350,5.66,-0.777
+named system,non,13,1013,5.658,-2.195
+named system,domain,13,1010,5.658,-2.191
+named system,design,15,2383,5.647,-3.223
+named system,historical,15,2473,5.634,-3.276
+named system,potential,13,1188,5.628,-2.425
+named system,corpus,14,1889,5.622,-2.987
+named system,education,12,665,5.603,-1.703
+named system,way,15,2702,5.601,-3.404
+named system,answer,12,697,5.597,-1.771
+named system,miqrabert,11,55,5.59,1.767
+named system,attention,12,743,5.589,-1.863
+named system,require,13,1421,5.589,-2.683
+named system,allow,14,2142,5.583,-3.168
+named system,snippet,11,102,5.581,0.876
+named system,correctly,11,113,5.579,0.728
+named system,launch,11,116,5.579,0.69
+named system,classifier,11,174,5.568,0.106
+named system,ner,11,179,5.567,0.065
+named system,caption,11,189,5.565,-0.014
+named system,analyze,12,882,5.565,-2.111
+named system,change,13,1582,5.563,-2.838
+named system,candidate,11,271,5.549,-0.534
+named system,academic,12,992,5.546,-2.28
+named system,interpretation,12,1075,5.532,-2.396
+named system,receive,11,381,5.529,-1.025
+named system,user,21,7492,5.528,-4.39
+named system,address,12,1115,5.525,-2.449
+named system,behavior,11,401,5.525,-1.099
+named system,core,11,450,5.516,-1.265
+named system,summary,11,459,5.515,-1.294
+named system,claim,11,491,5.509,-1.391
+named system,direct,11,516,5.504,-1.463
+named system,early,12,1237,5.504,-2.599
+named system,appear,11,553,5.497,-1.563
+named system,target,11,623,5.485,-1.735
+named system,benchmark,11,629,5.484,-1.748
+named system,feature,12,1427,5.473,-2.805
+named system,second,11,710,5.469,-1.923
+named system,turn,11,758,5.461,-2.018
+named system,albertina,10,33,5.457,2.367
+named system,doc,10,40,5.456,2.089
+named system,platform,12,1558,5.452,-2.931
+named system,particular,11,847,5.445,-2.178
+named system,superior,10,97,5.445,0.811
+named system,framework,12,1605,5.444,-2.974
+named system,cosine,10,113,5.442,0.591
+named system,vqascore,10,134,5.438,0.345
+named system,creative,11,886,5.438,-2.243
+named system,drop,10,146,5.435,0.221
+named system,semantic,11,961,5.425,-2.36
+named system,powerful,10,210,5.423,-0.303
+named system,rank,10,218,5.422,-0.357
+named system,precision,10,224,5.421,-0.396
+named system,popular,10,249,5.416,-0.549
+named system,audio,10,259,5.414,-0.606
+named system,learn,11,1034,5.413,-2.466
+named system,encoding,10,279,5.41,-0.713
+named system,consistent,10,287,5.409,-0.754
+named system,script,10,339,5.399,-0.994
+named system,total,10,355,5.396,-1.061
+named system,capacity,10,366,5.394,-1.105
+named system,year,11,1145,5.394,-2.613
+named system,visual,11,1153,5.393,-2.623
+named system,character,11,1163,5.391,-2.635
+named system,reasoning,10,394,5.389,-1.211
+named system,initial,10,449,5.379,-1.4
+named system,build,11,1274,5.373,-2.767
+named system,setting,10,484,5.372,-1.508
+named system,section,11,1305,5.368,-2.801
+named system,deep,10,555,5.36,-1.705
+named system,genai,10,564,5.358,-1.729
+named system,choose,10,586,5.354,-1.784
+named system,call,10,664,5.34,-1.964
+named system,measure,10,685,5.336,-2.009
+named system,paper,11,1563,5.325,-3.062
+named system,transcription,10,767,5.322,-2.172
+named system,strategy,10,811,5.314,-2.253
+named system,description,10,831,5.311,-2.288
+named system,unixcoder,9,9,5.31,4.089
+named system,reasoner,9,15,5.309,3.352
+named system,tradução,9,11,5.309,3.8
+named system,memo,9,17,5.308,3.172
+named system,eval,9,22,5.307,2.8
+named system,glm,9,21,5.307,2.867
+named system,contain,10,859,5.306,-2.336
+named system,multiple,10,858,5.306,-2.334
+named system,examine,10,860,5.305,-2.337
+named system,general,10,870,5.304,-2.354
+named system,flan,9,46,5.303,1.735
+named system,mit,9,46,5.303,1.735
+named system,tokenizer,9,53,5.301,1.531
+named system,pretraine,9,85,5.295,0.85
+named system,story,10,935,5.292,-2.458
+named system,closed,9,105,5.291,0.545
+named system,rag,9,122,5.288,0.328
+named system,cer,9,120,5.288,0.352
+named system,liu,9,125,5.287,0.293
+named system,reference,10,970,5.286,-2.511
+named system,panel,9,134,5.286,0.193
+named system,fast,9,145,5.284,0.079
+named system,annotation,10,982,5.284,-2.529
+named system,represent,10,1000,5.281,-2.555
+named system,default,9,162,5.28,-0.081
+named system,specific,11,1865,5.278,-3.316
+named system,pattern,10,1025,5.277,-2.59
+named system,struggle,9,188,5.275,-0.296
+named system,summarize,9,192,5.275,-0.326
+named system,take,10,1044,5.274,-2.617
+named system,art,10,1089,5.266,-2.678
+named system,transcribe,9,257,5.262,-0.747
+named system,configuration,9,282,5.258,-0.881
+named system,interface,10,1170,5.252,-2.781
+named system,encode,9,335,5.248,-1.129
+named system,technology,12,2931,5.247,-3.843
+named system,detection,9,358,5.244,-1.225
+named system,understanding,10,1269,5.236,-2.899
+named system,narrative,10,1276,5.235,-2.906
+named system,gain,9,420,5.232,-1.455
+named system,complete,9,434,5.23,-1.503
+named system,recognize,9,453,5.226,-1.564
+named system,introduction,9,520,5.214,-1.763
+named system,automate,9,529,5.212,-1.788
+named system,alignment,9,535,5.211,-1.804
+named system,point,10,1424,5.21,-3.065
+named system,help,10,1427,5.21,-3.068
+named system,short,9,567,5.205,-1.888
+named system,label,9,623,5.195,-2.024
+named system,name,9,628,5.194,-2.036
+named system,assess,9,643,5.192,-2.07
+named system,accord,9,646,5.191,-2.076
+named system,observe,9,655,5.19,-2.096
+named system,limitation,9,659,5.189,-2.105
+named system,serve,9,657,5.189,-2.101
+named system,difference,9,699,5.182,-2.19
+named system,especially,9,712,5.179,-2.217
+named system,add,9,725,5.177,-2.243
+named system,integrate,9,742,5.174,-2.276
+named system,content,11,2623,5.165,-3.809
+named system,review,9,810,5.162,-2.403
+named system,single,9,818,5.161,-2.417
+named system,understand,10,1772,5.155,-3.38
+named system,format,9,883,5.149,-2.527
+named system,impact,9,892,5.148,-2.542
+named system,term,10,1859,5.141,-3.449
+named system,universalner,8,4,5.141,5.089
+named system,siamese,8,10,5.14,3.767
+named system,xianyi,8,25,5.137,2.445
+named system,transformers,8,39,5.134,1.804
+named system,regression,8,50,5.132,1.445
+named system,frankentexts,8,56,5.131,1.282
+named system,sarah,8,61,5.13,1.158
+named system,postcolonial,8,63,5.129,1.112
+named system,backbone,8,69,5.128,0.981
+named system,brown,8,76,5.127,0.841
+named system,substantially,8,75,5.127,0.86
+named system,microfiction,8,77,5.127,0.822
+named system,compression,8,84,5.125,0.697
+named system,fid,8,90,5.124,0.597
+named system,november,8,93,5.124,0.55
+named system,proportion,8,109,5.121,0.321
+named system,share,9,1053,5.12,-2.781
+named system,comparable,8,117,5.119,0.219
+named system,probe,8,124,5.118,0.135
+named system,march,8,138,5.115,-0.019
+named system,approximately,8,139,5.115,-0.03
+named system,respectively,8,145,5.114,-0.091
+named system,raw,8,178,5.107,-0.387
+named system,matrix,8,188,5.106,-0.466
+named system,robust,8,247,5.094,-0.859
+named system,composition,8,252,5.093,-0.888
+named system,consistency,8,283,5.088,-1.056
+named system,vector,8,279,5.088,-1.035
+named system,chinese,8,292,5.086,-1.101
+named system,weight,8,296,5.085,-1.12
+named system,propose,9,1270,5.084,-3.052
+named system,distinguish,8,311,5.082,-1.192
+named system,conversation,8,312,5.082,-1.196
+named system,know,9,1287,5.081,-3.071
+named system,alternative,8,332,5.079,-1.286
+named system,replace,8,337,5.078,-1.308
+named system,fig,8,350,5.075,-1.362
+named system,reach,8,399,5.066,-1.551
+named system,correct,8,414,5.063,-1.604
+named system,likely,8,420,5.062,-1.625
+named system,expression,8,450,5.057,-1.725
+named system,free,8,469,5.053,-1.784
+named system,benefit,8,479,5.051,-1.815
+named system,extend,8,508,5.046,-1.9
+named system,class,8,512,5.045,-1.911
+named system,ground,8,524,5.043,-1.944
+named system,adopt,8,559,5.037,-2.038
+named system,skill,8,581,5.033,-2.093
+named system,data,10,2591,5.032,-3.928
+named system,consider,9,1601,5.03,-3.386
+named system,distribution,8,622,5.026,-2.192
+named system,conclusion,8,632,5.024,-2.215
+named system,post,8,655,5.02,-2.266
+named system,combine,8,685,5.014,-2.331
+named system,query,8,688,5.014,-2.337
+named system,list,8,690,5.013,-2.341
+named system,see,8,713,5.009,-2.389
+named system,expert,8,724,5.007,-2.411
+named system,standard,8,810,4.992,-2.573
+named system,involve,8,892,4.978,-2.712
+named system,come,8,903,4.976,-2.73
+named system,step,8,932,4.971,-2.775
+named system,discuss,8,952,4.968,-2.806
+named system,publish,8,978,4.963,-2.845
+named system,remain,8,1047,4.951,-2.943
+named system,machine,9,2161,4.943,-3.819
+named system,group,8,1266,4.915,-3.217
+named system,long,8,1348,4.901,-3.308
+named system,literary,9,2703,4.864,-4.141
+named system,history,8,1903,4.812,-3.805
+named system,need,8,2739,4.689,-4.33
+named system,digital,12,8834,4.596,-5.435
+named system,research,10,6268,4.581,-5.203

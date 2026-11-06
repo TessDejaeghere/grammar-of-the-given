@@ -1,0 +1,41 @@
+cue,anchor,auto_label,correct,notes,work_id,sent_id
+copilot,attribute,Human_role_analogy,y,,W7201919235,77287
+interpret,subject_of_verb,Cognizer,y,,W7125134239,62158
+prompt,subject_of_verb,Communication,y,distilled language (prompt),W4391936766,15496
+hallucination,modifies_noun,Biological_metaphors,y,distilled language (hallucinations),W7167380567,75188
+struggle,subject_of_verb,Emotion,y,,W4393905690,22144
+struggle,subject_of_verb,Emotion,y,,W7131809648,64758
+prompt,modifies_noun,Communication,y,,W4416362002,51076
+grow,subject_of_verb,Biological_metaphors,y,,W4404569797,37980
+assist,subject_of_verb,Agent,y,,W7155160496,68942
+he,personal_pronoun,Names_and_pronouns,n,wrong referent,W7171565730,76369
+judge,modifies_noun,Human_role_analogy,y,,W7166806371,74169
+capability,modifies_noun,Products_of_cognition,y,,W7118339670,61477
+capability,modifies_noun,Products_of_cognition,y,,W7133267413,57900
+editor,modifies_noun,Human_role_analogy,y,,W4406735017,40381
+assist,subject_of_verb,Agent,y,,W7203597436,77767
+prompt,modifies_noun,Communication,y,,W7166554466,73292
+help,subject_of_verb,Agent,y,,W4412209438,44845
+neural,modifier,Biological_metaphors,y,,W4323537222,25905
+she,personal_pronoun,Names_and_pronouns,n,wrong referent,W7133305564,59994
+capability,modifies_noun,Products_of_cognition,y,,W7134879932,65817
+struggle,subject_of_verb,Emotion,y,,W4412944799,17249
+he,personal_pronoun,Names_and_pronouns,y,,W7163172450,70759
+train,subject_of_verb,Cognizer,y,,W4390810205,19352
+ask,subject_of_verb,Communication,y,,W4400335100,22573
+understand,subject_of_verb,Cognizer,y,,W7135888560,58108
+neural,modifier,Biological_metaphors,y,,W4323537222,25935
+intelligence,attribute,Cognizer,y,,W7135888560,58237
+agentic,modifier,Agent,y,,W7152331736,68311
+he,personal_pronoun,Names_and_pronouns,n,wrong referent,W2171045846,21810
+bias,modifies_noun,Products_of_cognition,y,,W7130559292,63764
+agentic,modifier,Agent,y,,W7165109727,71754
+capability,modifies_noun,Products_of_cognition,y,,W7117078679,54827
+struggle,subject_of_verb,Emotion,y,,W7166399545,72482
+grow,subject_of_verb,Biological_metaphors,y,,W4412944799,17263
+friendly,modifier,Emotion,y,,W4405846591,1823
+he,personal_pronoun,Names_and_pronouns,n,wrong referent,W7165743497,72324
+comprehend,subject_of_verb,Cognizer,y,,W4392019863,31470
+author,modifies_noun,Human_role_analogy,y,,W4417044082,14697
+copilot,attribute,Human_role_analogy,y,,W7129448976,63436
+chatbot,modifies_noun,Communication,y,,W7204066399,78518

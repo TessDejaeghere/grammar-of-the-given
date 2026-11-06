@@ -1,0 +1,6 @@
+venue_class,Cognizer,Products_of_cognition,Emotion,Communication,Agent,Human_role_analogy,Names_and_pronouns,Biological_metaphors,entrenched_term,any_category,n_sentences
+book / chapter,0.021,0.006,0.004,0.011,0.007,0.01,0.006,0.002,0.509,0.065,1902
+conference,0.009,0.008,0.002,0.011,0.013,0.007,0.0,0.001,0.31,0.05,1731
+journal article,0.021,0.011,0.002,0.014,0.015,0.007,0.004,0.002,0.651,0.075,9485
+other,0.014,0.007,0.0,0.0,0.028,0.0,0.0,0.0,0.807,0.048,145
+preprint / repository,0.016,0.009,0.002,0.008,0.012,0.007,0.002,0.003,0.403,0.059,8424

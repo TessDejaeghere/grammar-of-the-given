@@ -1,0 +1,531 @@
+construction,n,n_docs,agent_present_n,agent_present_share
+AI literature,86,11,0,0.0
+AI application,70,34,0,0.0
+AI development,58,20,0,0.0
+AI training,48,12,0,0.0
+AI collaboration,34,22,0,0.0
+AI adoption,32,10,0,0.0
+AI generation,24,20,0,0.0
+AI translation,23,8,0,0.0
+LLM performance,22,16,0,0.0
+AI integration,20,13,0,0.0
+FinBERT sentiment,20,1,0,0.0
+AI analysis,19,10,0,0.0
+AI writing,18,8,0,0.0
+AI creation,17,11,1,0.059
+LLMs performance,14,6,0,0.0
+AI assistance,13,6,0,0.0
+AI description,13,1,0,0.0
+AI governance,13,5,0,0.0
+AI infrastructure,13,6,0,0.0
+AI potential,13,11,0,0.0
+AI preservation,13,1,0,0.0
+LLM evaluation,13,6,0,0.0
+AI mention,12,1,0,0.0
+AI regulation,12,4,0,0.0
+AI implementation,11,6,0,0.0
+AI interaction,11,6,0,0.0
+AI solution,11,8,1,0.091
+GPT-4 vision,10,2,0,0.0
+LLM generation,10,6,0,0.0
+AI detection,9,5,0,0.0
+AI interpretation,9,4,0,0.0
+AI reading,9,1,0,0.0
+GenAI adoption,9,2,0,0.0
+GenAI integration,9,2,0,0.0
+artificial intelligence application,9,9,0,0.0
+language model training,9,4,0,0.0
+AI environment,8,6,0,0.0
+AI innovation,8,5,0,0.0
+GenAI application,8,1,0,0.0
+LLM embedding,8,2,0,0.0
+AI architecture,7,4,0,0.0
+AI augmentation,7,3,0,0.0
+AI competence,7,6,0,0.0
+AI hallucination,7,4,0,0.0
+AI involvement,7,5,0,0.0
+AI performance,7,6,0,0.0
+ChatGPT-4o translation,7,1,0,0.0
+LLM refinement,7,1,0,0.0
+LLM training,7,4,0,0.0
+VLM embedding,7,1,0,0.0
+ChatGPT translation,6,2,0,0.0
+LLM processing,6,4,0,0.0
+AI advancement,5,5,0,0.0
+AI assurance,5,1,0,0.0
+AI closure,5,1,0,0.0
+AI cooperation,5,2,0,0.0
+AI documentation,5,2,0,0.0
+AI empowerment,5,1,0,0.0
+AI evaluation,5,3,0,0.0
+AI fiction,5,4,0,0.0
+AI future,5,4,1,0.2
+AI implication,5,3,0,0.0
+AI influence,5,4,0,0.0
+AI revolution,5,5,0,0.0
+Claude-3 prediction,5,1,0,0.0
+GPT-4 translation,5,1,0,0.0
+LLM application,5,5,0,0.0
+LLM interaction,5,4,0,0.0
+LLM judgment,5,2,0,0.0
+AI deployment,4,4,0,0.0
+AI fraction,4,1,0,0.0
+AI limitation,4,4,0,0.0
+AI processing,4,4,0,0.0
+AI suggestion,4,3,0,0.0
+AI version,4,2,0,0.0
+BERT architecture,4,3,0,0.0
+BERT finetuning,4,1,0,0.0
+LLM attribution,4,1,0,0.0
+LLM development,4,4,0,0.0
+LLM prompting,4,2,0,0.0
+LLM setting,4,2,0,0.0
+LLM translation,4,4,0,0.0
+THOTH.AI material,4,1,0,0.0
+VLM evaluation,4,2,1,0.25
+AI automation,3,3,0,0.0
+AI cataloguing,3,2,0,0.0
+AI document,3,2,0,0.0
+AI engagement,3,3,0,0.0
+AI finding,3,2,0,0.0
+AI imaging,3,2,0,0.0
+AI mitigation,3,1,0,0.0
+AI moment,3,2,0,0.0
+AI relation,3,3,0,0.0
+AI representation,3,3,0,0.0
+AI simulation,3,3,0,0.0
+GPT-4 writing,3,1,0,0.0
+LLM architecture,3,2,0,0.0
+LLM assistance,3,2,0,0.0
+chatbot conversation,3,3,0,0.0
+-AI collaboration,2,2,0,0.0
+A.I.-Generated picture,2,2,0,0.0
+AI acceptance,2,2,0,0.0
+AI coding,2,2,0,0.0
+AI competition,2,2,0,0.0
+AI composition,2,1,0,0.0
+AI contribution,2,2,0,0.0
+AI diffusion,2,2,0,0.0
+AI division,2,1,1,0.5
+AI experiment,2,2,0,0.0
+AI goal,2,2,0,0.0
+AI imitation,2,1,0,0.0
+AI information,2,1,0,0.0
+AI intelligence,2,2,0,0.0
+AI intervention,2,2,0,0.0
+AI learning,2,2,0,0.0
+AI management,2,2,0,0.0
+AI nature,2,2,0,0.0
+AI operation,2,2,0,0.0
+AI perception,2,1,0,0.0
+AI priming,2,1,0,0.0
+AI recruiting,2,2,0,0.0
+AI segmentation,2,1,0,0.0
+AI sentiment,2,2,0,0.0
+AI taking,2,1,0,0.0
+AI transcription,2,2,0,0.0
+AI understanding,2,2,0,0.0
+AlephBERT embedding,2,1,0,0.0
+Artificial Intelligence application,2,1,0,0.0
+BERT embedding,2,2,0,0.0
+BERT prediction,2,1,0,0.0
+ChatGPT document,2,1,0,0.0
+ChatGPT proportion,2,1,0,0.0
+ChatGPT transliteration,2,1,0,0.0
+Claude conclusion,2,1,0,0.0
+Copilot argument,2,1,0,0.0
+DALL-E version,2,1,1,0.5
+FLUX.1 architecture,2,1,0,0.0
+GPT architecture,2,1,2,1.0
+GPT performance,2,1,0,0.0
+GPT version,2,2,0,0.0
+GPT-2 moment,2,1,0,0.0
+GPT-4 performance,2,1,0,0.0
+GPT-4 prediction,2,1,0,0.0
+GenAI contribution,2,2,0,0.0
+GenAI declaration,2,2,0,0.0
+GenAI position,2,1,0,0.0
+LLM agent planning,2,1,0,0.0
+LLM alignment,2,2,0,0.0
+LLM assessment,2,1,0,0.0
+LLM augmentation,2,1,0,0.0
+LLM collaboration,2,1,0,0.0
+LLM compression,2,2,0,0.0
+LLM decision,2,2,0,0.0
+LLM diffusion,2,1,0,0.0
+LLM oting,2,1,0,0.0
+LLM voting,2,1,0,0.0
+LLMs application,2,1,0,0.0
+LLMs evaluation,2,2,0,0.0
+VLM analysis,2,2,0,0.0
+VLM prompting,2,2,0,0.0
+VLM question,2,2,0,0.0
+artificial intelligence generation,2,2,0,0.0
+artificial intelligence translation,2,1,0,0.0
+language model embedding,2,1,0,0.0
+language model generation,2,2,0,0.0
+language model performance,2,2,0,0.0
+large language model hallucination,2,1,0,0.0
+large language model translation,2,2,0,0.0
+-AI coalition,1,1,0,0.0
+A.I. symbiosis,1,1,0,0.0
+AGI goal,1,1,0,0.0
+AI -analysis,1,1,0,0.0
+AI abbreviation,1,1,0,0.0
+AI adaptation,1,1,0,0.0
+AI advance,1,1,0,0.0
+AI amalgamation,1,1,0,0.0
+AI annotation,1,1,0,0.0
+AI archival,1,1,0,0.0
+AI argument,1,1,0,0.0
+AI assumption,1,1,0,0.0
+AI attribution,1,1,0,0.0
+AI ature,1,1,0,0.0
+AI beginning,1,1,0,0.0
+AI being,1,1,0,0.0
+AI benchmarking,1,1,0,0.0
+AI capture,1,1,0,0.0
+AI certification,1,1,0,0.0
+AI citation,1,1,0,0.0
+AI coalition,1,1,0,0.0
+AI cognition,1,1,0,0.0
+AI comprehension,1,1,0,0.0
+AI computation,1,1,0,0.0
+AI computational,1,1,0,0.0
+AI conference,1,1,0,0.0
+AI consideration,1,1,0,0.0
+AI corporation,1,1,0,0.0
+AI culture,1,1,0,0.0
+AI darling,1,1,0,0.0
+AI decision,1,1,0,0.0
+AI declaration,1,1,0,0.0
+AI department,1,1,1,1.0
+AI disclosure,1,1,0,0.0
+AI displacement,1,1,0,0.0
+AI education,1,1,0,0.0
+AI encroachment,1,1,0,0.0
+AI enrichment,1,1,0,0.0
+AI evolution,1,1,0,0.0
+AI externalization,1,1,0,0.0
+AI friction,1,1,0,0.0
+AI function,1,1,0,0.0
+AI functioning,1,1,0,0.0
+AI fundamental,1,1,0,0.0
+AI glorification,1,1,0,0.0
+AI guidance,1,1,0,0.0
+AI handling,1,1,0,0.0
+AI homogenization,1,1,0,0.0
+AI imagination,1,1,0,0.0
+AI improvement,1,1,0,0.0
+AI inflection,1,1,0,0.0
+AI infringement,1,1,0,0.0
+AI inspiration,1,1,0,0.0
+AI intention,1,1,0,0.0
+AI intranslation,1,1,0,0.0
+AI invention,1,1,0,0.0
+AI investment,1,1,0,0.0
+AI iteration,1,1,0,0.0
+AI judgment,1,1,0,0.0
+AI legislation,1,1,0,0.0
+AI lication,1,1,0,0.0
+AI llaboration,1,1,0,0.0
+AI making,1,1,0,0.0
+AI measure,1,1,0,0.0
+AI mediation,1,1,0,0.0
+AI misalignment,1,1,0,0.0
+AI musing,1,1,0,0.0
+AI naming,1,1,0,0.0
+AI narration,1,1,0,0.0
+AI obligation,1,1,0,0.0
+AI pairing,1,1,0,0.0
+AI portal,1,1,0,0.0
+AI possession,1,1,0,0.0
+AI preference,1,1,0,0.0
+AI presence,1,1,0,0.0
+AI procedure,1,1,0,0.0
+AI professional,1,1,0,0.0
+AI programming,1,1,0,0.0
+AI prompting,1,1,0,0.0
+AI proposal,1,1,0,0.0
+AI provocation,1,1,0,0.0
+AI publication,1,1,0,0.0
+AI question,1,1,0,0.0
+AI realization,1,1,0,0.0
+AI reconfigure,1,1,0,0.0
+AI repercussion,1,1,0,0.0
+AI replacement,1,1,0,0.0
+AI requirement,1,1,0,0.0
+AI scraping,1,1,0,0.0
+AI sentence,1,1,0,0.0
+AI sentience,1,1,0,0.0
+AI stance,1,1,0,0.0
+AI statement,1,1,0,0.0
+AI structure,1,1,0,0.0
+AI synthesis,1,1,0,0.0
+AI tential,1,1,0,0.0
+AI transformation,1,1,0,0.0
+AI transliteration,1,1,0,0.0
+AI utilization,1,1,0,0.0
+AI violation,1,1,0,0.0
+AI visualization,1,1,0,0.0
+AI‑Native coding,1,1,0,0.0
+AI‑assisted intelligence,1,1,0,0.0
+AI‑driven production,1,1,0,0.0
+AI‑generated picture,1,1,0,0.0
+Ai revolution,1,1,0,0.0
+AlBERT version,1,1,0,0.0
+AlephBERT representation,1,1,0,0.0
+Artificial Intelligence conference,1,1,0,0.0
+Artificial Intelligence literature,1,1,0,0.0
+Artificial intelligence innovation,1,1,0,0.0
+Artificial intelligence revolution,1,1,0,0.0
+BART architecture,1,1,0,0.0
+BERT attention,1,1,0,0.0
+BERT pretraining,1,1,0,0.0
+BERT representation,1,1,0,0.0
+BERT understanding,1,1,0,0.0
+ChatGPT adoption,1,1,0,0.0
+ChatGPT application,1,1,0,0.0
+ChatGPT cheating,1,1,0,0.0
+ChatGPT encoding,1,1,0,0.0
+ChatGPT formulation,1,1,0,0.0
+ChatGPT information,1,1,0,0.0
+ChatGPT interaction,1,1,0,0.0
+ChatGPT performance,1,1,0,0.0
+ChatGPT simulation,1,1,0,0.0
+ChatGPT version,1,1,0,0.0
+ChatGPT-4o annotation,1,1,0,0.0
+ChatGPT-4o version,1,1,0,0.0
+ChatGPT4 encoding,1,1,0,0.0
+Chatbot introduction,1,1,0,0.0
+Claude 3 evaluation,1,1,0,0.0
+Claude 3.5 Sonnet experiment,1,1,0,0.0
+Claude Sonnet processing,1,1,0,0.0
+Claude adherence,1,1,0,0.0
+Claude analysis,1,1,0,0.0
+Claude attribution,1,1,0,0.0
+Claude encoding,1,1,0,0.0
+Claude performance,1,1,0,0.0
+Claude reference,1,1,0,0.0
+Claude simulation,1,1,0,0.0
+Claude version,1,1,0,0.0
+Copilot conclusion,1,1,0,0.0
+Copilot writing,1,1,0,0.0
+DALL-E application,1,1,0,0.0
+DALL-E generation,1,1,0,0.0
+DALL·E rendering,1,1,0,0.0
+DALL·E representation,1,1,0,0.0
+DeepSeek total,1,1,0,0.0
+FlanT5 architecture,1,1,0,0.0
+FlanT5 reasoning,1,1,0,0.0
+GLM al,1,1,0,0.0
+GPT acquisition,1,1,0,0.0
+GPT annotation,1,1,0,0.0
+GPT demonstration,1,1,0,0.0
+GPT eval,1,1,0,0.0
+GPT limitation,1,1,0,0.0
+GPT session,1,1,0,0.0
+GPT-3 incarnation,1,1,0,0.0
+GPT-4 concentration,1,1,0,0.0
+GPT-4 correction,1,1,0,0.0
+GPT-4 generation,1,1,0,0.0
+GPT-4 reaction,1,1,0,0.0
+GPT-4 simulation,1,1,0,0.0
+GPT-4 version,1,1,0,0.0
+GPT-4.1 annotation,1,1,0,0.0
+GPT-4o contribution,1,1,0,0.0
+GPT-4o underperformance,1,1,0,0.0
+GPT-4o version,1,1,0,0.0
+GPT-4turbo inference,1,1,0,0.0
+GPT-5 assistance,1,1,0,0.0
+GPT4 judgement,1,1,0,0.0
+GPT4Vgenerated version,1,1,0,0.0
+Gemini configuration,1,1,0,0.0
+Gemini documentation,1,1,0,0.0
+Gemini embedding,1,1,0,0.0
+Gemini enrichment,1,1,0,0.0
+Gemini generation,1,1,0,0.0
+Gemini performance,1,1,0,0.0
+Gemini position,1,1,0,0.0
+Gemini pro performance,1,1,0,0.0
+GenAI affordance,1,1,0,0.0
+GenAI enrolment,1,1,0,0.0
+GenAI infrastructure,1,1,0,0.0
+GenAI presence,1,1,0,0.0
+GenAI processing,1,1,0,0.0
+GenAI repetition,1,1,0,0.0
+GenAI writing,1,1,0,0.0
+Generative AI disruption,1,1,0,0.0
+Generative AI production,1,1,0,0.0
+Generative AI statement,1,1,0,0.0
+Generative AI training,1,1,0,0.0
+Grok integration,1,1,0,0.0
+HyeBERT training,1,1,0,0.0
+KeyBERT performance,1,1,0,0.0
+LLM advance,1,1,0,0.0
+LLM aggregation,1,1,0,0.0
+LLM agreement,1,1,0,0.0
+LLM benchmarking,1,1,0,0.0
+LLM competence,1,1,0,0.0
+LLM confabulation,1,1,0,0.0
+LLM correction,1,1,0,0.0
+LLM deployment,1,1,0,0.0
+LLM description,1,1,0,0.0
+LLM distribution,1,1,0,0.0
+LLM division,1,1,0,0.0
+LLM document,1,1,0,0.0
+LLM editing,1,1,0,0.0
+LLM element,1,1,0,0.0
+LLM evolution,1,1,0,0.0
+LLM execution,1,1,0,0.0
+LLM expansion,1,1,0,0.0
+LLM failure,1,1,0,0.0
+LLM generalization,1,1,0,0.0
+LLM hallucination,1,1,0,0.0
+LLM inference,1,1,0,0.0
+LLM interpretation,1,1,0,0.0
+LLM invention,1,1,0,0.0
+LLM jailbreaking,1,1,0,0.0
+LLM management,1,1,0,0.0
+LLM measurement,1,1,0,0.0
+LLM modernization,1,1,0,0.0
+LLM pairing,1,1,0,0.0
+LLM persuasion,1,1,0,0.0
+LLM placement,1,1,0,0.0
+LLM prediction,1,1,0,0.0
+LLM pretraining,1,1,0,0.0
+LLM rating,1,1,0,0.0
+LLM recommendation,1,1,0,0.0
+LLM reference,1,1,0,0.0
+LLM replacement,1,1,0,0.0
+LLM retelling,1,1,0,0.0
+LLM scaling,1,1,0,0.0
+LLM session,1,1,0,0.0
+LLM simulation,1,1,0,0.0
+LLM storytelling,1,1,0,0.0
+LLM summarization,1,1,0,0.0
+LLM temperature,1,1,0,0.0
+LLM thinking,1,1,0,0.0
+LLM tooling,1,1,0,0.0
+LLM version,1,1,0,0.0
+LLM writing,1,1,0,0.0
+LLMs deployment,1,1,0,0.0
+LLMs development,1,1,0,0.0
+LLMs implication,1,1,0,0.0
+LLMs limitation,1,1,0,0.0
+LLMs mixture,1,1,0,0.0
+LLMs phrasing,1,1,0,0.0
+LLMs processing,1,1,0,0.0
+LLMs representation,1,1,0,0.0
+LLMs signalling,1,1,0,0.0
+LLMs simulation,1,1,0,0.0
+LLMs storytelling,1,1,0,0.0
+LLMs training,1,1,0,0.0
+LLMs understanding,1,1,0,0.0
+LLMs writing,1,1,0,0.0
+LLM‑assisted investment,1,1,0,0.0
+LLaMA‑1 composition,1,1,0,0.0
+LLaMA‑1 training,1,1,0,0.0
+Language Model evaluation,1,1,0,0.0
+Language Model selection,1,1,0,0.0
+Language Model simulation,1,1,0,0.0
+Language Model tuning,1,1,0,0.0
+Language model adaptation,1,1,0,0.0
+Large Language Model application,1,1,0,0.0
+Llama 2 extraction,1,1,0,0.0
+Llama extraction,1,1,0,0.0
+Llm discussion,1,1,0,0.0
+MLLM performance,1,1,0,0.0
+MLLM ranking,1,1,0,0.0
+MLLMs development,1,1,0,0.0
+MLLMs reasoning,1,1,0,0.0
+Midjourney application,1,1,0,0.0
+Midjourney marketing,1,1,0,0.0
+MiqraBERT evaluation,1,1,0,0.0
+MiqraBERT finetuning,1,1,0,0.0
+MiqraBERT performance,1,1,0,0.0
+MiqraBERT representation,1,1,0,0.0
+MiqraBERT separation,1,1,0,0.0
+OLMO-2 continuation,1,1,0,0.0
+OLMO-2 performance,1,1,0,0.0
+OLMo configuration,1,1,0,0.0
+OLMo limitation,1,1,0,0.0
+OLMo2 processing,1,1,0,0.0
+PHI inscription,1,1,0,0.0
+Phi-3.5 vision,1,1,0,0.0
+PortOldBERT performance,1,1,0,0.0
+Qwen- instruction,1,1,0,0.0
+Qwen3 processing,1,1,0,0.0
+SBERT embedding,1,1,0,0.0
+SORA simulation,1,1,0,0.0
+SentenceBERT architecture,1,1,0,0.0
+Stable Diffusion version,1,1,0,0.0
+T5 embedding,1,1,0,0.0
+T5 version,1,1,0,0.0
+THOTH.AI contribution,1,1,0,0.0
+THOTH.AI experiment,1,1,0,0.0
+THOTH.AI explanation,1,1,0,0.0
+VLM advance,1,1,0,0.0
+VLM architecture,1,1,0,0.0
+VLM assistance,1,1,0,0.0
+VLM comprehension,1,1,0,0.0
+VLM configuration,1,1,0,0.0
+VLM failure,1,1,0,0.0
+VLM interpretation,1,1,0,0.0
+VLM performance,1,1,0,0.0
+VLM reasoning,1,1,0,0.0
+VLM reconstruction,1,1,0,0.0
+Vision-Language Model perception,1,1,0,0.0
+ai ding,1,1,0,0.0
+ai experience,1,1,0,0.0
+ai writing,1,1,0,0.0
+artificial intelligence development,1,1,0,0.0
+artificial intelligence environment,1,1,0,0.0
+artificial intelligence innovation,1,1,0,0.0
+artificial intelligence learning,1,1,0,0.0
+artificial intelligence literature,1,1,0,0.0
+artificial intelligence procedure,1,1,0,0.0
+artificial intelligence programming,1,1,0,0.0
+chat bot feature,1,1,0,0.0
+chatbot analysis,1,1,0,0.0
+chatbot integration,1,1,0,0.0
+chatbot performance,1,1,0,0.0
+chatbot personification,1,1,0,0.0
+foundation model basis,1,1,0,0.0
+foundation model pretraining,1,1,0,0.0
+generative AI advancement,1,1,0,0.0
+generative AI architecture,1,1,0,0.0
+generative AI characterization,1,1,0,0.0
+generative AI literature,1,1,0,0.0
+generative AI recitation,1,1,0,0.0
+generative AI reordering,1,1,0,0.0
+generative AI retrieval,1,1,0,0.0
+generative AI training,1,1,0,0.0
+generative AI writing,1,1,0,0.0
+generative artificial intelligence integration,1,1,0,0.0
+language model adaptation,1,1,0,0.0
+language model detection,1,1,0,0.0
+language model distribution,1,1,0,0.0
+language model interpretation,1,1,0,0.0
+language model monocultural,1,1,0,0.0
+language model potential,1,1,0,0.0
+language model procedure,1,1,0,0.0
+language model reasoning,1,1,0,0.0
+language model tuning,1,1,0,0.0
+language models understanding,1,1,0,0.0
+large language model collaboration,1,1,0,0.0
+large language model identification,1,1,0,0.0
+large language model judgment,1,1,0,0.0
+large language model training,1,1,0,0.0
+llama- vision,1,1,0,0.0
+llama-3 memorization,1,1,0,0.0
+llm alignment,1,1,0,0.0
+llm evaluation,1,1,0,0.0
+llm hallucination,1,1,0,0.0
+llm interaction,1,1,0,0.0
+llm synthesis,1,1,0,0.0
+llm tuning,1,1,0,0.0
+mLLM intervention,1,1,0,0.0
+minimax optimization,1,1,0,0.0
+phi science,1,1,0,0.0
+∙AI development,1,1,0,0.0

@@ -1,0 +1,11 @@
+.env
+*_key.txt
+openalex_key.txt
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+openalex_data/
+openalex_dh_fulltext/
+outputs/clean/*.txt
+outputs/parsed/docs/

@@ -1,0 +1,111 @@
+markers,predicate_lemma,auto_label,correct,notes,clause_id
+strong: will,mutate,strong,y,,W7167380567-75110-0
+weak: may,overlook,weak/hedged,y,,W4415144040-47116-0
+,come,bare,n,strong,W4405846591-1341-0
+hedge: potential,be,weak/hedged,y,,W7111736513-53480-0
+weak: can,use,weak/hedged,y,,W7201919235-77249-0
+,help,bare,y,external_quote,W7201919235-77308-0
+weak: can,go,weak/hedged,y,,W4409081354-14129-0
+weak: can,help,weak/hedged,y,,W4407244629-40850-0
+boost: evidently,struggle,strong,y,,W7126062851-62555-0
+weak: should,receive,weak/hedged,n,,W4408502978-41969-0
+,produce,bare,y,,W7131657426-59775-0
+strong: will,reinforce,strong,y,,W7151341463-68206-0
+weak: may,become,weak/hedged,y,,W4404569797-37845-0
+,turn,bare,y,,W4405846591-2299-0
+strong: must,fuse,strong,y,,W7125134239-62136-0
+weak: can,be,weak/hedged,y,,W4390810205-19353-0
+weak: should,present,weak/hedged,y,,W7166664322-73606-0
+strong: will,outdo,strong,n,question,W4412209438-44377-0
+strong: shall,serve,strong,y,,W4414903054-46878-0
+strong: will,reshape,strong,y,,W7167380567-75118-0
+strong: will   hedge-adv: perhaps,find,mixed,y,,W7202371777-77634-0
+hedge-adv: possibly   boost: certainly,digest,mixed,y,,W7118600085-61647-0
+hedge: likely   hedge-adv: possibly,present,weak/hedged,n,list,W7166806371-74108-0
+,apply,bare,n,,W7112481207-53928-0
+,be,bare,y,,W4401892122-15754-0
+hedge: suggest,suggest,weak/hedged,y,,W4416285046-50838-0
+strong: must,interpret,strong,y,,W7125134239-62058-0
+strong: will   weak: can,serve,mixed,n,,W4405846591-1949-0
+strong: must   weak: can,enhance,mixed,n,,W4404503536-37736-0
+strong: must   weak: should,design,mixed,y,,W7131809648-64790-0
+,draw,bare,y,,W4411642628-43049-0
+strong: will,make,strong,y,,W7133305564-60009-1
+strong: will   weak: might,extend,mixed,n,,W7167380567-75179-0
+"weak: can, might",use,weak/hedged,y,,W4395691665-33391-0
+weak: can,ask,weak/hedged,y,,W4362583436-11409-0
+,rely,bare,y,,W7131809648-64733-0
+weak: can,plan,weak/hedged,y,,W4391420691-30080-0
+weak: can,be,weak/hedged,y,,W4413121357-12292-0
+weak: would   hedge-adv: presumably   boost: evidently,be,mixed,y,,W4408502978-41961-0
+strong: will   weak: can   hedge-adv: perhaps,draft,mixed,y,,W4416285046-50729-0
+,utilize,bare,y,,W4393336063-32628-0
+strong: must   weak: would,access,mixed,n,,W4408502978-41978-1
+,-driven,bare,y,,W7166535362-73076-0
+,release,bare,y,,W7203440112-77673-0
+boost: indeed,appreciate,strong,y,,W4360975703-25940-0
+strong: will,empower,strong,y,,W4417199348-52144-0
+strong: will,make,strong,n,,W7133305564-60005-0
+strong: will,push,strong,y,,W7130559292-63803-0
+weak: can,broaden,weak/hedged,y,,W7135383380-66096-0
+strong: must   weak: can,assist,mixed,y,,W7163902446-71041-0
+,use,bare,y,,W4416285046-50718-0
+strong: must,pair,strong,y,,W7128576077-62987-0
+weak: may,model,weak/hedged,y,,W4416264675-49710-0
+strong: must,reframe,strong,y,,W7167379736-74998-0
+weak: can,tune,weak/hedged,y,,W4323537222-25897-0
+strong: will,reproduce,strong,y,,W7155067134-68679-0
+hedge: indicate   boost: clearly,indicate,mixed,y,,W4401307406-35888-0
+,continue,bare,y,,W7143409591-67368-0
+,provide,bare,y,,W7201919235-77059-0
+hedge-adv: often,call,weak/hedged,n,,W4416264839-14490-0
+,be,bare,y,,W4399911268-34848-0
+strong: will,generate,strong,y,,W7112481207-53967-0
+,function,bare,y,,W4407537911-40909-0
+weak: can,enhance,weak/hedged,y,,W4416264835-50591-0
+strong: must,encode,strong,y,,W7133211206-65194-0
+strong: will,drive,strong,y,,W7167380567-75117-0
+strong: will,have,strong,y,,W4406601355-40196-0
+,triumph,bare,y,,W4405846591-1264-0
+strong: will,transform,strong,y,,W7134879932-65683-0
+,improve,bare,y,,W4395691665-33374-0
+strong: must   weak: may   hedge: suggest,suggest,mixed,y,,W7201850202-76920-0
+strong: will,alter,strong,y,,W7135383380-66077-0
+strong: must,encourage,strong,n,,W7128576077-63021-0
+,produce,bare,y,,W4408502978-41876-0
+,boast,bare,y,,W4404988546-38442-0
+weak: may,construct,weak/hedged,y,,W7204208848-79022-0
+,explore,bare,y,,W7134879932-65854-0
+,use,bare,y,,W4393905690-22193-0
+strong: will   hedge: likely,be,mixed,y,,W7167380567-75177-0
+hedge: indicate   boost: clearly,indicate,mixed,y,,W7159958294-69457-1
+weak: might,resist,weak/hedged,y,,W7155067134-68763-0
+weak: can,serve,weak/hedged,y,,W4406407757-40127-0
+,revolutionize,bare,y,,W4396610037-33432-0
+,generate,bare,y,,W7125134239-62055-0
+strong: will   hedge-adv: perhaps,be,mixed,y,,W7167380567-75202-0
+strong: will   weak: can,transform,mixed,n,,W4401892122-15850-0
+weak: should,understand,weak/hedged,y,,W4405846591-1437-0
+strong: will,work,strong,y,,W7153007076-68416-0
+"strong: must, will",smell,strong,na,,W7162905692-70613-0
+weak: can   hedge-adv: often,explore,weak/hedged,y,,W4414572977-45715-0
+weak: can   boost: clearly,construct,mixed,y,,W4417199348-52195-0
+,utilize,bare,y,,W7204066399-78325-0
+weak: could   boost: indeed,identify,mixed,y,,W7131809648-64740-0
+,use,bare,y,,W4415144040-47120-0
+,foreground,bare,y,,W7167379736-74973-0
+weak: can,assist,weak/hedged,y,,W4414572977-45781-0
+weak: can   hedge: suggest   boost: indeed,know,mixed,y,,W4417185521-52080-0
+strong: will,be,strong,y,,W4406055893-39627-0
+,train,bare,y,,W4416154407-49224-0
+strong: will,enable,strong,y,,W4404174626-7586-0
+boost: indeed,appreciate,strong,y,,W4360975578-894-0
+weak: should,understand,weak/hedged,y,,W7147119246-67450-0
+weak: can,assist,weak/hedged,y,,W4404922782-16607-0
+weak: can   boost: clearly,produce,mixed,y,,W4390810205-19302-0
+,employ,bare,y,,W7142547917-67346-0
+strong: will,be,strong,y,,W7140291829-67278-0
+hedge: potential,show,weak/hedged,y,,W4405269279-38890-0
+"weak: could, would",be,weak/hedged,y,,W7112481207-54172-0
+strong: will,impact,strong,y,,W7143409591-67385-0
+,pull,bare,y,,W7112481207-54001-0
